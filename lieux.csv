@@ -1,0 +1,67 @@
+name;Type;mer proche;capitale;montagne;rivière;bataille;Peuple
+Aman;Continent;Océan Belegaer,Ekkaia;Valmar;Pelori;None;Empoisonnement des Deux Arbres de Valinor;Valar,Maiar,Eldar,Elfe
+Angband;Forteresse;None;Angband;Montagnes de fer;None;Bataille de la Flamme subite,Guerre de la Grande Colère;Valar,Maiar,Balrog
+Angmar;Royaume;None;Carn Dûm;Monts Brumeux;Hoarwell,;Guerre contre les royaumes,Bataille de Fornost;Orc,Troll
+Arnor;Ensemble de royaumes;Grande Mer;Annuminas;Montagnes Bleues,Monts Brumeux;Lhûn,Bruinen;Désastre des champs d'iris;Homme,Hobbit
+Arthedain;Royaume;Grande Mer;Fornost;Collines des  Tours;Lhûn ;Bataille de Fornost;Homme,Hobbit
+Beleriand;Région;Grande Mer;Menegroth;Montagnes Bleues;Sirion,Gelion;Guerre de la Grande Colère;Elfe,Nain,Orc,Mair
+Bree;Ville;None;Bree;None;None;None;Homme,Hobbit
+Brethil;Forêt;None;Ephel Brandir;None;Taeglin;Guerre de la Grande Colère;Homme 
+Caras Galadhon;Ville;None;Caras Galadhon;None;Anduin,Celebrant;None;Elfe
+Cirith Ungol;Forteresse;None;Cirith Ungol;Rempats de l'Ombre;None;Guerre de l'anneau;Homme,Orc
+Dale;Ville;None;Dale;Montagne Solitaire;Long lac,Celduin;Bataille des cinq armées;Homme,Dragon
+Dol Guldur;Forteresse;None;Dol Guldur;Amon Lanc;None;Guerre de l'anneau;Orc,Nazgûl
+Doriath;Royaume;None;Menegroth;None;Esgalduin,Arthorien;Première Bataille du Beleriand,Guerre de la Grande Colère ;Elfe
+Dorwinion;Région;Rhûn;None;Montagne Solitaire,Collines de Fer;Celduin;Bataille des cinq armées;Homme
+Erebor;Montagne;None;Erebor;Montagne Solitaire;None;Bataille des cinq armées,Bataille de Dale;Elfe
+Eregion;Région;Grande Mer;Ost-in-Edhil;Monts Brumeux,Caradhras;Bruinen,Glanduin;Guerre de la Grande Colère;Elfe
+Esgaroth;Ville;None;Esgaroth;Montagne Solitaire;Long Lac;Bataille de Dale;Valar,Maiar,Eldar,Elfe,Hobbit,Nain
+Estolad;Région;Grande Mer;None;None;None;Guerre de la Grande Colère;Homme
+Forêt Noire;Forêt;None;None;Montagnes du Royaume Sylvestre,Montagnes de la Forêt Noire,Dol Guldur;Anduin,Rivière de la Forêt,Rivière Enchantée;Bataille sous les Arbres,Chute de Dol Guldur;Homme
+Formenos;Forteresse;None;Formenos;None;None;Empoisonnement des Deux Arbres de Valinor;Nain,Orc,Troll,Dragon,Balrog
+Gondolin;Royaume;None;Gondolin;Echoriath;None;Chute de Gondolin,Guerre de la Grande Guerre,Guerre de l'anneau;Elfe
+Gondor;Royaume;Grande Mer,Rhûn;Minas Tirith;Montagnes Blanches,Pinnath Gelin;Anduin;Guerre de la Dernière Alliance,Bataille des Champs du Pelennor;Homme,Elfe
+Himlad;Royaume;None;None;Himring,Dorthonion;Celon,Aron;Guerre de la Grande Colère;Nain
+Hithlum;Région;None;Mithrim;Ered Wethrin;Annon-In-Gelydh;Bataille de Nirnaeth Arnoediad,Guerre de la Grande Colère;Homme
+Isengard;Région;None;Orthanc;Monts Brumeux;Isen;Attaque des Ents;Elfe
+Khazad-dûm;Ville;None;Khazad-dûm;Monts Brumeux;Lac du Miroir;Bataille d'Azanulbizar;Nain
+Moria;Ville;None;Khazad-dûm;Monts Brumeux;Lac du Miroir;Bataille d'Azanulbizar;Nain
+Mordor;Région;None;Orodruin;Monts de l'Ombre,Monts cendrés; Nurnen; Guerre de l'anneau; Orc,Nazgûl
+Lindon;Région;Grande Mer;Les Havres Gris;Collines des  Tours;Lhûn;Bataille de Fornost;Valar,Maiar
+Lorien (Valinor);Forêt;None;Lórien;None;Lórellin;None;Elfe
+Lothlórien;Forêt;None;Caras Galadhon;Monts Brumeux;Anduin;Attaque de la Lothlórien;Elfe
+Minas Morgul;Ville;None;Minas Morgul;Monts de l'Ombre;Anduin;Première et Deuxième Chute de Minath Morgul;Elfe,Homme,Orc,Troll,Nazgûl
+Minas Tirith;Ville;None;Minas Tirith;Montagnes Blanches ;Anduin;Bataille des Champs du Pelennor;Homme
+Mont Gram;Montagne;None;Mont Gram;Monts Brumeux;None;Bataille des Champs Verts;Gobelins
+Mont Gundabad;Montagne;None;Mont Gundabad;Monts Brumeux;None;Chute de l'Angmar,Guerre des Nains et des Orcs;Orc,Nain
+Montagnes de Fer;Montagne;None;Utumno,Angband;Montagnes de Fer;None;Guerre de la Grande Colère;Nain
+Montagnes Blanches;Montagne;None;Gouffre de Helm;Montagnes Blanches;None;Dernière Alliance des Hommes et des Elfes,Bataille de Fort-le-Cor;Homme,Orc,Nain
+Montagnes Bleues;Montagne;Grande Mer;Nogrod,Belegost;Montagnes Bleues;Lhûn;Guerre de la Grande Colère;Nain
+Montagnes Grises;Montagne;None;None;Mont Gundabad;Anduin;Paix Vigilante,Guerre des Nains et des Dragons,Bataille des cinq armées;Homme,Orc,Ent
+Nan Dungortheb;Desert;None;None;Ered Gorgoroth;Esgalduin,Mindeb;Guerre de la Grande Colère;Araignée
+Nan Elmoth;Forêt;None;None;None;Celon ;Guerre de la Grande Colère;Elfe
+Nargothrond;Ville;None;Nargothrond;None;Narog,Ginglith;Guerre de la Grande Colère;Elfe,Nain
+Nevrast;Région;Grande Mer;Vinyamar;Ered Wethrin;None;Guerre de la Grande Colère;Elfe
+Númenor;Île;Grande Mer;Armenelos;Meneltarma;Siril,Nunduinë;Submersion de Numenor;Homme
+Osgiliath;Ville;None;Osgiliath;None;Anduin;Bataille d'Osgiliath;Homme,Orc
+Ossiriand;Région;None;None;Montagnes Bleues;Gelion;Guerre des Joyaux;Elfe
+Portes de Durin;Porte;None;Khazad-dûm;Caradhras;Sirannon;Fléau de Durin;Nain,Elfe,Homme,Hobbit,Balrog
+Rhovanion;Région;Rhûn;Erebor,Dale;Monts Brumeux;Anduin;Bataille des cinq armées,Guerre de l'anneau;Homme,Elfe,Nain,Orc
+Rhûn;Région;Rhûn,Mer Orientale;None;Montagnes Rouges;Carnen-Celduin;Paix Vigilante ;Homme
+Fondcombe;Ville;Grande Mer;Fondcombe;Monts Brumeux;Bruinen;Guerre des Elfes contre Sauron;Homme,Elfe
+Rohan;Région;None;Edoras;Montagnes Blanches,Monts Brumeux;;Limeclaire;Homme
+Royaume Réunifié;Royaume;Grande Mer,Rhûn;Minas Tirith,Annuminas;Monts Brumeux;Anduin, Rivière Enchantée,Rivière de la Forêt,Celduin,Carnen;Guerre de l'anneau;Homme
+La Comté;Région;None;Lézeau,Hobbitebourg;None;Baranduin;Bataille des Champs Verts;Hobbit,Homme
+Terre du Milieu;Continent;Grande Mer,Mer Orientale;None;Multiples;Multiples;Guerre de la Grande Colère;Elfe,Homme,Nain,Hobbit,Ent,Orc,Troll,Maiar
+Halls Intemporels;Région;None;None;None;None;None;Valar
+Tirion;Ville;None;Tirion;Pelori;None;None;Elfe
+Tol Eressëa;Île;Océan Belegaer;Kortition;None;Rivière de l'Eau Glissante;Sortie de l'Avant;Elfe
+Utumno;Forteresse;None;Utumno;Montagnes de fer;None;Bataille des Puissances;Orc,Balrog,Dragon
+Valinor;Région;Océan Belegaer;Valimar;Pelori;Lórellin;None;Valar,Maiar,Elfe
+Cavernes de Mandos;Caverne;Ekkaia;None;None;None;None;Esprits des Elfes,Esprits des Nains
+Taniquetil;Montagne;Océan Belegaer;None;Pelori;None;None;Valar,Maiar
+Vieille Forêt;Forêt;None;Maison de Tom Bombadil;None;Baranduin;Guerre de l'anneau;Hobbit,Homme
+Royaume Sylvestre;Royaume;None;None;Montagnes du Royaume Sylvestre;Rivière Enchantée;Bataille sous les Arbres,Chute de Dol Guldur;Elfe
+Forêt de Fangorn;Forêt;None;Isengard;Monts Brumeux;Isen;Attaque des Ents;Ent
+Valimar;Ville;None;Valimar;Colline Ezellohar;None;Empoisonnement des Deux Arbres de Valinor;Valar,Maiar,Elfe
+Iles Enchantées;Île;Océan Belegaer;None;None;None;Submersion de Numenor,Guerre de la Grande Colère;None
