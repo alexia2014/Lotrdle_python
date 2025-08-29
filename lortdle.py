@@ -67,11 +67,20 @@ def compare_date(answer: str):
     return date
 
 def list_green(guest, answer):
+    liste = []
     for i in guest:
         for j in answer:
             if i == j:
-                return "green"
-    return "red"
+                liste.append('green')
+            else:
+                liste.append('red')
+    if liste == ['green']:
+        return "green"
+    else:
+        if "green" in liste and "red" in liste:
+            return "orange"
+        else:
+            return "red"
 
 def compare_vector(guest, answer, categories: list[str]):
     returne = []

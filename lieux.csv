@@ -1,5 +1,5 @@
 name;Type;mer proche;capitale;montagne;rivière;bataille;Peuple
-Aman;Continent;Océan Belegaer,Ekkaia;Valmar;Pelori;None;Empoisonnement des Deux Arbres de Valinor;Valar,Maiar,Eldar,Elfe
+Aman;Continent;Océan Belegaer,Ekkaia;Valimar;Pelori;None;Empoisonnement des Deux Arbres de Valinor;Valar,Maiar,Eldar,Elfe
 Angband;Forteresse;None;Angband;Montagnes de fer;None;Bataille de la Flamme subite,Guerre de la Grande Colère;Valar,Maiar,Balrog
 Angmar;Royaume;None;Carn Dûm;Monts Brumeux;Hoarwell,;Guerre contre les royaumes,Bataille de Fornost;Orc,Troll
 Arnor;Ensemble de royaumes;Grande Mer;Annuminas;Montagnes Bleues,Monts Brumeux;Lhûn,Bruinen;Désastre des champs d'iris;Homme,Hobbit
@@ -15,7 +15,7 @@ Doriath;Royaume;None;Menegroth;None;Esgalduin,Arthorien;Première Bataille du Bel
 Dorwinion;Région;Rhûn;None;Montagne Solitaire,Collines de Fer;Celduin;Bataille des cinq armées;Homme
 Erebor;Montagne;None;Erebor;Montagne Solitaire;None;Bataille des cinq armées,Bataille de Dale;Elfe
 Eregion;Région;Grande Mer;Ost-in-Edhil;Monts Brumeux,Caradhras;Bruinen,Glanduin;Guerre de la Grande Colère;Elfe
-Esgaroth;Ville;None;Esgaroth;Montagne Solitaire;Long Lac;Bataille de Dale;Valar,Maiar,Eldar,Elfe,Hobbit,Nain
+Esgaroth;Ville;None;Esgaroth;Montagne Solitaire;Long Lac;Bataille de Dale;Homme,Nain
 Estolad;Région;Grande Mer;None;None;None;Guerre de la Grande Colère;Homme
 Forêt Noire;Forêt;None;None;Montagnes du Royaume Sylvestre,Montagnes de la Forêt Noire,Dol Guldur;Anduin,Rivière de la Forêt,Rivière Enchantée;Bataille sous les Arbres,Chute de Dol Guldur;Homme
 Formenos;Forteresse;None;Formenos;None;None;Empoisonnement des Deux Arbres de Valinor;Nain,Orc,Troll,Dragon,Balrog
