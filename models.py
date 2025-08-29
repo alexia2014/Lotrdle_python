@@ -14,3 +14,13 @@ class Lieu(Base):
     riviere = Column(ARRAY(Text))
     bataille = Column(ARRAY(Text))
     peuple = Column(ARRAY(Text))
+
+class Personnage(Base):
+    __tablename__ = 'personnes'
+    id = Column(Integer, primary_key=True)
+    name = Column(Text, nullable=False)
+    birth = Column(Text)
+    death = Column(Text)
+    gender = Column(Text)
+    race = Column(Text)
+    spouse = Column(Text)

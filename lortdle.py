@@ -85,7 +85,7 @@ def compare_vector(guest, answer, categories: list[str]):
     # Comparaison des autres éléments
     for i in categories:
         if i != "id":
-            if i in ["birth", "dead"]:
+            if i in ["birth", "death"]:
                 date_guest = compare_date(getattr(guest, i))
                 date_answer = compare_date(getattr(answer, i))
 
@@ -95,7 +95,6 @@ def compare_vector(guest, answer, categories: list[str]):
                     returne.append("orange")
                 else:
                     returne.append("red")
-
                 if date_guest < date_answer:
                     up.append("&#129033")  # U+1F809
                 elif date_answer < date_guest:
@@ -132,8 +131,8 @@ def check_guess(guest_db, answer, categories):
     j = 0
     for i in categories:
         if i != "id":
-            if i in ["birth", "dead"] and color[j] != "green" and len(up) > j - 1:
-                result.append(f'<span style="color:{color[j]};">{getattr(guest_db, i)} {up[j - 1]}</span>')
+            if i in ["birth", "death"] and color[j] != "green" and j-2< len(up):
+                result.append(f'<span style="color:{color[j]};">{getattr(guest_db, i)} {up[j-2]}</span>')
             else:
                 let = ""
                 if isinstance(getattr(guest_db, i), list):
