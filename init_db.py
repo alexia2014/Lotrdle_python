@@ -1,7 +1,7 @@
 import csv
 from sqlalchemy import create_engine, MetaData
 from sqlalchemy.orm import sessionmaker, Session
-from models import Base, Lieu, Personnage
+from models import Base, Lieu, Personnage, Script
 
 DATABASE_URL = "postgresql://alexpetit:root@localhost:5432/lotrdle"
 engine = create_engine(DATABASE_URL)
@@ -44,6 +44,20 @@ def inserer_donnees_csv_pers():
         session.commit()
     session.close()
 
+def inserer_donnees_csv_script():
+    session = SessionLocal()
+    with open("script.csv", newline='') as csvfile:
+        reader = csv.DictReader(csvfile, delimiter=';')
+        for row in reader:
+            pers = Script(
+                name=row['name'],
+                verse = row['verse'],
+                movie = row['movie'],
+            )
+            session.add(pers)
+        session.commit()
+    session.close()
+
 def delete_all_base(engine):
     meta = MetaData()
     meta.reflect(bind=engine)
@@ -53,4 +67,5 @@ delete_all_base(engine)
 Base.metadata.create_all(bind=engine)
 inserer_donnees_csv_map()
 inserer_donnees_csv_pers()
+inserer_donnees_csv_script()
 print("Les données ont été insérées dans la base PostgreSQL.")

@@ -1,0 +1,132 @@
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-image: url("https://images4.alphacoders.com/155/155094.jpg");
+      background-size: cover;
+      background-attachment: scroll;
+      background-blend-mode: lighten;
+      text-align: center;
+      padding: 20px;
+      background-position: center;
+      background-repeat: no-repeat;
+      color: white;
+    }
+    h1 {
+      color: #8B0000;
+      text-shadow: 1px 1px 2px #aaa;
+    }
+    input[type="text"] {
+      padding: 10px;
+      width: 300px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-top: 10px;
+      background-color: #8B0000;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #999999;
+    }
+    table {
+      margin: 20px auto;
+      border-collapse: collapse;
+      width: 80%;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    th, td {
+      border: 1px solid #999999;
+      padding: 10px;
+      text-align: center;
+    }
+    th {
+      background-color: #8B0000;
+    }
+    #dynamicTable tbody {
+      background-color: #aaa;
+    }
+    .result, .tentative {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+    @keyframes bravoFlash {
+      0% { opacity: 0; transform: scale(0.8); }
+      50% { opacity: 1; transform: scale(1.1); }
+      100% { opacity: 1; transform: scale(1); }
+    }
+    .result span {
+      animation: bravoFlash 0.6s ease-out;
+    }
+    .result {
+      font-size: x-large;
+    }
+    .table-container {
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      flex-wrap: wrap;
+      margin-top: 30px;
+    }
+
+    .table-block {
+      flex: 1;
+      min-width: 300px;
+    }
+
+    .table-block.small {
+      flex: 0.3;
+    }
+    .banner-title {
+      background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/66/Sunlight_and_stormy_sky_over_the_mountains_and_paddy_fields_in_Vang_Vieng%2C_Laos.jpg");
+      position: relative;
+      z-index: 1;
+      padding: 40px 20px;
+      color: white;
+      font-size: 36px;
+      background-size: cover;
+      background-position: 25% 40%;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    }
+    .autocomplete-items {
+      position: absolute;
+      border: 1px solid #8B0000;
+      border-bottom: none;
+      background-color: rgba(0, 0, 0, 0.8); /* fond semi-transparent */
+      max-height: 200px;
+      border-top: none;
+      overflow-y: auto;
+      z-index: 99;
+      /*position the autocomplete items to be the same width as the container:*/
+      top: 100%;
+      left: 0;
+      right: 0;
+    }
+
+    .autocomplete-items div {
+      padding: 10px;
+      cursor: pointer;
+      background-color: rgb(139, 0, 0);
+      border-bottom: 1px solid #d4d4d4; 
+    }
+
+    /*when hovering an item:*/
+    .autocomplete-items div:hover {
+      background-color: rgb(139, 0, 0, 0.3);
+    }
+
+    /*when navigating through the items using the arrow keys:*/
+    .autocomplete-active {
+      background-color: DodgerBlue !important; 
+      color: #8B0000; 
+    }
+    .autocomplete {
+      position: relative;
+      display: inline-block;
+    }

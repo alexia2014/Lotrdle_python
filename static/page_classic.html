@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" type="image/x-icon" href="static/favicon.ico">
+  <link rel="stylesheet" href="static/visual.css">
+  <script src="static/app.js"></script>
+  <title>LOTR Classique</title>
+</head>
+<body onload="init()">
+  <h1 class="banner-title">Lotr Classique</h1>
+  <p>Devine le personnage de la Terre du Milieu !</p>
+  <form action="/">
+    <button>Menu</button>
+  </form>
+  <div class="autocomplete">
+    <input type="text" id="guessInput" placeholder="Entrez un nom" autocomplete="off" onkeydown="handleKey(event)">
+    <button onclick="checkGuess()">Valider</button>
+    <button onclick="share()">Share</button>
+  </div>
+  <p></br></p>
+  <div class="color" id="color"></div>
+  <div class="result" id="result"></div>
+  <div class="table-container">
+    <div class="table-block small">
+    <div class="tentative" id="tentative"></div>
+    <h2>Historique (7 jours)</h2>
+      <table id="historyTable">
+        <thead>
+          <tr>
+            <th>Jour</th>
+            <th>Tentatives</th>
+            <th>Resultat</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <div class="table-block">
+      <h2>Guesses</h2>
+      <table id="dynamicTable">
+        <thead><tr id="tableHeader"></tr></thead>
+        <tbody><tr></tr></tbody>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+</body>
+<footer>Alexandra Petit</footer>
+</html>

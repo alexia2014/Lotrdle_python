@@ -24,3 +24,10 @@ class Personnage(Base):
     gender = Column(Text)
     race = Column(Text)
     spouse = Column(Text)
+
+class Script(Base):
+    __tablename__ = 'scripting'
+    id = Column(Integer, primary_key=True)
+    name = Column(Text, nullable=False)
+    verse = Column(Text)
+    movie = Column(Text)
