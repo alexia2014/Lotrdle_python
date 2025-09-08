@@ -1,10 +1,6 @@
 function init() {
   script = window.location.pathname.split("/").pop();
-  console.log(script);
-  let name = initTable(script);
-  updateHistoryTable(script);
-  DisplayOldGuess(script);
-  autocomplete(document.getElementById("guessInput"), name);
+  initTable(script);
 }
 
 async function initTable(script) {
@@ -29,12 +25,15 @@ async function initTable(script) {
         }
       });
     }
-    return get_name(data.name)});
+    autocomplete(document.getElementById("guessInput"), get_name(data.name));
+    updateHistoryTable(script);
+    DisplayOldGuess(script);
+    return 0;
+  })
 }
 
 function checkGuess() {
   script = window.location.pathname.split("/").pop();
-  console.log(script);
   const guessInput = document.getElementById("guessInput");
   const guess = guessInput.value.trim();
   const resultDiv = document.getElementById("result");
@@ -127,7 +126,6 @@ function saveDailyAttempt(date, attempts, result, script) {
   setCookie("history_" + script, JSON.stringify(history), 7);
 }
 function DisplayOldGuess(script) {
-  console.log(script)
   const resultDiv = document.getElementById("result");
   const guess = (getCookie("guess_" + script)).split(',');
   FetchAndAnswer(guess, resultDiv, 0, script);

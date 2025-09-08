@@ -57,7 +57,7 @@ def get_test_one(db: Session = Depends(get_db)):
     result = {}
     columns = inspector.get_columns('personnes')
     column_names = [col["name"] for col in columns]
-    result['personnes'] = column_names
+    result['lieux'] = column_names
     columns = [col["name"] for col in inspector.get_columns('personnes')]
     if "name" in columns:
         query = text(f"SELECT DISTINCT name FROM {'personnes'}")
@@ -67,7 +67,6 @@ def get_test_one(db: Session = Depends(get_db)):
     answer_index = lortdle.init(nb)
     global answer
     answer = db.query(Personnage).filter(Personnage.id == answer_index).first()
-    print(answer.name)
     if result is None:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=f"The id: {result} you requested for does not exist")
     return result
@@ -104,7 +103,6 @@ def get_test_one(db: Session = Depends(get_db)):
     answer_index = lortdle.init(nb)
     global answer
     answer = db.query(Lieu).filter(Lieu.id == answer_index).first()
-    print(answer.name)
     if result is None:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=f"The id: {result} you requested for does not exist")
     return result
@@ -147,8 +145,6 @@ def get_test_one(db: Session = Depends(get_db)):
     answer = db.query(Script).filter(Script.id == answer_index).first()
     result["verse"] = answer.verse
     result["movie"] = answer.movie
-    print(result)
-    print(answer.name)
     if result is None:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=f"The id: {result} you requested for does not exist")
     return result

@@ -31,7 +31,6 @@ def check_digit(answer: str, index: int):
             date = 0
     else:
         date = 0
-
     return date
 
 def check_digit(answer: str, index: int):
@@ -90,14 +89,12 @@ def compare_vector(guest, answer, categories: list[str]):
         returne.append("green")
     else:
         returne.append("red")
-
     # Comparaison des autres éléments
     for i in categories:
         if i != "id":
             if i in ["birth", "death"]:
                 date_guest = compare_date(getattr(guest, i))
                 date_answer = compare_date(getattr(answer, i))
-
                 if date_guest == date_answer:
                     returne.append("green")
                 elif abs(date_guest - date_answer) < 600:
@@ -131,10 +128,8 @@ def check_guess(guest_db, answer, categories):
         result.append("Guess not found on base")
         guess_answer.append(result)
         return guess_answer
-
     found = "0"
     color, up = compare_vector(guest_db, answer, categories)
-
     if color[0] == "green":
         found = "1"
     j = 0
