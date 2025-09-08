@@ -52,21 +52,7 @@ def test_posts(db: Session = Depends(get_db)):
 
 @app.post("/classic/initTable", status_code=status.HTTP_200_OK)
 def get_test_one(db: Session = Depends(get_db)):
-    inspector = inspect(db.bind)
-    table_names = inspector.get_table_names()
-    result = {}
-    columns = inspector.get_columns('personnes')
-    column_names = [col["name"] for col in columns]
-    result['lieux'] = column_names
-    columns = [col["name"] for col in inspector.get_columns('personnes')]
-    if "name" in columns:
-        query = text(f"SELECT DISTINCT name FROM {'personnes'}")
-        rows = db.execute(query).fetchall()
-        result["name"] = [row[0] for row in rows]
-    nb = len(result["name"])
-    answer_index = lortdle.init(nb)
-    global answer
-    answer = db.query(Personnage).filter(Personnage.id == answer_index).first()
+    answer, result = get_answer(db, "personnes")
     if result is None:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=f"The id: {result} you requested for does not exist")
     return result
@@ -80,7 +66,7 @@ def get_test_one(item: Item, db: Session = Depends(get_db)):
         return result
     inspector = inspect(db.bind)
     pers = db.query(Personnage).filter(Personnage.name.ilike(item.name)).first()
-    global answer
+    answer, _ = get_answer(db, "personnes")
     columns = inspector.get_columns('personnes')
     column_names = [col["name"] for col in columns]
     guess_an = lortdle.check_guess(pers, answer, column_names)
@@ -88,21 +74,7 @@ def get_test_one(item: Item, db: Session = Depends(get_db)):
 
 @app.post("/carte/initTable", status_code=status.HTTP_200_OK)
 def get_test_one(db: Session = Depends(get_db)):
-    inspector = inspect(db.bind)
-    table_names = inspector.get_table_names()
-    result = {}
-    columns = inspector.get_columns('lieux')
-    column_names = [col["name"] for col in columns]
-    result['lieux'] = column_names
-    columns = [col["name"] for col in inspector.get_columns('lieux')]
-    if "name" in columns:
-        query = text(f"SELECT DISTINCT name FROM {'lieux'}")
-        rows = db.execute(query).fetchall()
-        result["name"] = [row[0] for row in rows]
-    nb = len(result["name"])
-    answer_index = lortdle.init(nb)
-    global answer
-    answer = db.query(Lieu).filter(Lieu.id == answer_index).first()
+    answer, result = get_answer(db, "lieux")
     if result is None:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=f"The id: {result} you requested for does not exist")
     return result
@@ -116,7 +88,7 @@ def get_test_one(item: Item, db: Session = Depends(get_db)):
         return result
     inspector = inspect(db.bind)
     lieu = db.query(Lieu).filter(Lieu.name.ilike(item.name)).first()
-    global answer
+    answer, _ = get_answer(db, "lieux")
     columns = inspector.get_columns('lieux')
     column_names = [col["name"] for col in columns]
     guess_an = lortdle.check_guess(lieu, answer, column_names)
@@ -130,19 +102,7 @@ def test_posts(db: Session = Depends(get_db)):
 
 @app.post("/script/initTable", status_code=status.HTTP_200_OK)
 def get_test_one(db: Session = Depends(get_db)):
-    inspector = inspect(db.bind)
-    table_names = inspector.get_table_names()
-    result = {}
-    columns = [col["name"] for col in inspector.get_columns('scripting')]
-    if "name" in columns:
-        query = text(f"SELECT DISTINCT name FROM {'scripting'}")
-        rows = db.execute(query).fetchall()
-        result["name"] = [row[0] for row in rows]
-    result["name"] = list(dict.fromkeys(result["name"]))
-    nb = len(result["name"])
-    answer_index = lortdle.init(nb)
-    global answer
-    answer = db.query(Script).filter(Script.id == answer_index).first()
+    answer, result = get_answer(db, "scripting")
     result["verse"] = answer.verse
     result["movie"] = answer.movie
     if result is None:
@@ -158,9 +118,32 @@ def get_test_one(item: Item, db: Session = Depends(get_db)):
         return result
     inspector = inspect(db.bind)
     lieu = db.query(Script).filter(Script.name.ilike(item.name)).first()
-    global answer
+    answer, _ = get_answer(db, "scripting")
     if (getattr(lieu, "name") == getattr(answer, "name")):
         result = {"columns": ["<span style=\"color:green;\">"+ item.name +"</span>"], "found": 1}
     else:
         result = {"columns": ["<span style=\"color:red;\">"+ item.name +"</span>"], "found": 0}
     return result
+
+def get_answer(db, name):
+    inspector = inspect(db.bind)
+    table_names = inspector.get_table_names()
+    result = {}
+    columns = inspector.get_columns(name)
+    column_names = [col["name"] for col in columns]
+    result['lieux'] = column_names
+    columns = [col["name"] for col in inspector.get_columns(name)]
+    if "name" in columns:
+        query = text(f"SELECT DISTINCT name FROM " + name)
+        rows = db.execute(query).fetchall()
+        result["name"] = [row[0] for row in rows]
+    nb = len(result["name"])
+    answer_index = lortdle.init(nb)
+    print(nb)
+    if name == "scripting":
+        name = Script
+    elif name == "lieux":
+        name = Lieu
+    elif name == "personnes":
+        name = Personnage
+    return db.query(name).filter(name.id == answer_index).first(), result
