@@ -1,6 +1,10 @@
+let color_ascii;
+let color;
 function init() {
   script = window.location.pathname.split("/").pop();
   initTable(script);
+  color_ascii = [];
+  color = [];
 }
 
 async function initTable(script) {
@@ -27,6 +31,7 @@ async function initTable(script) {
     }
     autocomplete(document.getElementById("guessInput"), get_name(data.name));
     updateHistoryTable(script);
+    document.getElementById("share").disabled = true;
     DisplayOldGuess(script);
     return 0;
   })
@@ -80,9 +85,13 @@ async function FetchAndAnswer(guess, resultDiv, sigle_guess, script) {
         td.innerHTML = col;
         tr.appendChild(td);
       });
+      calcul_color(result.color);
       if (result.found == 1) {
         resultDiv.innerHTML = "<span style='color:#3af821;'>BRAVO !</span>";
         guessInput.disabled = true;
+        document.getElementById("share").disabled = false;
+        if (script == "script")
+          searchYouTubeVideo(result.verse + " " + result.movie);
       }
       foundText = result.found == 1 ? "trouve" : "non trouve";
       if (sigle_guess)
@@ -153,6 +162,26 @@ function get_name(data_name) {
     name.push(data_name[index]);
   }
   return name;
+}
+function calcul_color(color_guess) {
+  for (let index = 0; index < color_guess.length; index++) {
+    color.push(color_guess[index]);
+  }
+  color.sort();
+  let counts = {};
+  for (const num of color) {
+    counts[num] = counts[num] ? counts[num] + 1 : 1;
+  }
+  color_ascii = "";
+  for (let index = 0; index < 10; index++) {
+    if (index < Math.floor(10*counts["green"]/color.length))
+      color_ascii += "🟩";
+    else if (index <= Math.floor((10*counts["green"]/color.length) + Math.floor((10*counts["orange"]/color.length)+1)))
+      color_ascii += "🟧";
+    else
+      color_ascii += "🟥";
+  };
+  document.getElementById("color").innerHTML = color_ascii;
 }
 function share() {
   script = window.location.pathname.split("/").pop();
@@ -257,4 +286,19 @@ function autocomplete(entree, arr) {
       closeAllLists(e.target);
       checkGuess();
   });
+}
+
+async function searchYouTubeVideo(quote) {
+  const resultvideo = document.getElementById("video");
+  fetch("http://localhost:8000/youtube-search?q=" + quote)
+    .then(res => res.json())
+    .then(data => {
+      if (data.videoId) {
+            const videoUrl = `https://www.youtube.com/watch?v=${data.videoId}`;
+            document.getElementById("video-link").innerHTML = `
+              <a href="${videoUrl}" target="_blank" style="color: #00cc33ff; text-decoration: none;">Voir la vidéo sur YouTube</a>`;
+          } else {
+            document.getElementById("video-link").innerText = "Vidéo non trouvée.";
+          }
+    })
 }

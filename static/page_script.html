@@ -17,13 +17,15 @@
   <div class="autocomplete">
     <input type="text" id="guessInput" placeholder="Entrez un nom" autocomplete="off" onkeydown="handleKey(event)">
     <button onclick="checkGuess()">Valider</button>
-    <button onclick="share()">Share</button>
+    <button id="share" onclick="share()">Share</button>
   </div>
 
   <p></br></p>
   <div class="verse" id="verse"></div>
-  <div class="movie" id="movie"></div>
+  <b class="movie" id="movie"></b>
+  <div class="color" id="color"></div>
   <div class="result" id="result"></div>
+  <div id="video-link"></div>
   <div class="table-container">
     <div class="table-block small">
     <div class="tentative" id="tentative"></div>

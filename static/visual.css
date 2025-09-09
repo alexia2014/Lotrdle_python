@@ -34,6 +34,11 @@
     button:hover {
       background-color: #999999;
     }
+    button:disabled {
+      color: #ccc !important;
+      background-color: #666 !important;
+      cursor: not-allowed;
+    }
     table {
       margin: 20px auto;
       border-collapse: collapse;
