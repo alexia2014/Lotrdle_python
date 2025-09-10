@@ -2,14 +2,9 @@ import csv
 from sqlalchemy import create_engine, MetaData
 from sqlalchemy.orm import sessionmaker, Session
 from models import Base, Lieu, Personnage, Script
+import sys
 
-DATABASE_URL = "postgresql://alexpetit:root@localhost:5432/lotrdle"
-engine = create_engine(DATABASE_URL)
-SessionLocal = sessionmaker(bind=engine)
-Base.metadata.create_all(engine)
-
-def inserer_donnees_csv_map():
-    session = SessionLocal()
+def inserer_donnees_csv_map(session):
     with open("lieux.csv", newline='') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=';')
         for row in reader:
@@ -27,8 +22,7 @@ def inserer_donnees_csv_map():
         session.commit()
     session.close()
 
-def inserer_donnees_csv_pers():
-    session = SessionLocal()
+def inserer_donnees_csv_pers(session):
     with open("personnes.csv", newline='', encoding="utf-8-sig") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=';')
         for row in reader:
@@ -44,8 +38,7 @@ def inserer_donnees_csv_pers():
         session.commit()
     session.close()
 
-def inserer_donnees_csv_script():
-    session = SessionLocal()
+def inserer_donnees_csv_script(session):
     with open("script.csv", newline='') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=';')
         for row in reader:
@@ -63,9 +56,18 @@ def delete_all_base(engine):
     meta.reflect(bind=engine)
     meta.drop_all(bind=engine)
 
-delete_all_base(engine)
-Base.metadata.create_all(bind=engine)
-inserer_donnees_csv_map()
-inserer_donnees_csv_pers()
-inserer_donnees_csv_script()
-print("Les données ont été insérées dans la base PostgreSQL.")
+def main():
+    args = sys.argv[1:]
+    DATABASE_URL = "postgresql://"+ args[0] + ":" + args[1] +"@localhost:5432/" + args[2]
+    engine = create_engine(DATABASE_URL)
+    SessionLocal = sessionmaker(bind=engine)
+    Base.metadata.create_all(engine)
+    delete_all_base(engine)
+    Base.metadata.create_all(bind=engine)
+    session = SessionLocal()
+    inserer_donnees_csv_map(session)
+    inserer_donnees_csv_pers(session)
+    inserer_donnees_csv_script(session)
+    print("Les données ont été insérées dans la base PostgreSQL.")
+
+main()
