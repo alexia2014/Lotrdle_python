@@ -135,7 +135,7 @@ Huor;FA 442;FA 473;Male;Men;Rian
 Hunthor;Late FA;FA 499;Male;Men;Unnamed wife
 Hundar;YT 1400;FA 473;Male;Men;Unnamed wife
 Hundad;Mid FA;Mid FA ;Male;Men;Unnamed wife
-Huan;YS;FA 466;Male;Wolfhound;None
+Huan;FA;FA 466;Male;Wolfhound;None
 Tobias Hornblower;TA 3000;Late TA 3018;Male;Hobbits;None
 Horn;Possibly TA 3000;March 15 TA 3019;Male;Men;None
 Eönwë;VY 0;Immortal;Male;Ainur;None
@@ -249,7 +249,7 @@ Hardang;FA 470;FA 501;Male;Men;None
 Handir;FA 441;FA 495;None;Men;Beldis
 Hamfast of Gamwich;TA 2760;None;Male;Hobbits;Unnamed wife
 Halmir;YT 1400;YT 1400 ;Male;Men;Unnamed wife
-Hallatan;SA 711;YS 340;Male;Men;Unnamed wife
+Hallatan;SA 711;FA 340;Male;Men;Unnamed wife
 Hallas (Steward);TA 2480;TA 2605;Male;Men;Unnamed wife
 Hallacar;SA 852;SA 1211;Male;Men;Tar-Ancalimë
 Haleth (Helm's son);TA 3000;Winter of TA 2758;Male;Men;None
@@ -347,7 +347,7 @@ Nimrodel;YT;TA 1981;Female;Elves;Loved Amroth
 Nimloth (elf);Unknown possibly sometime during the YT 3;FA 506;Female;Elves;Dior Eluchil
 Nienna;VY 0;Immortal;Female;Ainur;None
 Nieliqui;unknown;Immortal;Female;Ainur;None
-Nessanië;SA 840;YS 340;Female;Men;None
+Nessanië;SA 840;FA 340;Female;Men;None
 Nessa;VY 0;Immortal;Female;Ainur;Tulkas
 Nerdanel;YT YT 1300;Still alive;Female;Elves;Fëanor
 Nellas;None;None;Female;Elves;None
@@ -424,7 +424,7 @@ Gloin;TA 2783;FO 15;Male;Dwarves;Unnamed wife
 Gléowine;TA 3000;None;Male;Men;None
 Glorfindel;Possibly YT 10;FA 510;Male;Elves;None
 Glirhuin;Unknown late fifth or sixth century YT 1300;None;Male;Men;None
-Glaurung;Presumably after Morgoth's return to Angband YS 2;FA 501;Male;Dragons;None
+Glaurung;Presumably after Morgoth's return to Angband FA 2;FA 501;Male;Dragons;None
 Girion;TA 2732;TA 2770;Male;Men;Unnamed wife
 Gimli;TA 2879;Unknown (Departed to Aman FO 120);Male;Dwarves;None
 Gimilzagar;SA 2630;None;Male;Men;None
@@ -447,7 +447,7 @@ Lily Cotton;TA 3000;None;Female;Hobbits;Farmer Cotton
 Bowman Cotton;TA 2886;None;Male;Hobbits;None
 Tolman Cotton Jr.;TA 2980;FO 60;Male;Hobbits;Marigold Cotton
 Ciryon;SA 3379;TA 2;Male;Men;Unknown possibly known
-Ciryatur;YS 340;After SA 1700;Male;Men;None
+Ciryatur;FA 340;After SA 1700;Male;Men;None
 Ciryandil;TA 820;TA 1015;Male;Men;Unnamed wife
 Cirion;TA 2449;TA 2567;Male;Men;Unnamed wife
 Falco Chubb-Baggins;TA 2903;TA 2999;Male;Hobbits;Unnamed wife
@@ -496,7 +496,7 @@ Ulmo;VY 0;Immortal;Male;Ainur;None
 Ulfast;Mid YT 1300;FA 473;Male;Men;None
 Ulfang;YT 1400;FA 473;Male;Men;Unnamed wife
 Uldor;Mid YT 1300;FA 473;Male;Men;None
-Ulbar;SA 50;YS 340 ;Male;Men;Unnamed wife
+Ulbar;SA 50;FA 340 ;Male;Men;Unnamed wife
 Uinen;VY 0;Immortal;Female;None;Ossë
 Ugluk;TA 3019;February 293019;Male;Uruk-hai;None
 Ufthak;None;3019;Male;Orc;None
