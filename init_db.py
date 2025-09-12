@@ -58,8 +58,8 @@ def check_date_personne():
         for row in reader:
             birth = compare_date(row['birth'])
             death = compare_date(row['death'])
-            if (row['birth'] != 'None' and not row['birth'][3:].isnumeric() or row['death'] != 'None' and not row['death'][3:].isnumeric()):
-                print("ERROR: " + row['name'] + ": " + str(row['birth']) + " to " + str(row['death']))
+            if (birth != 0 and death != 0 and birth >= death):
+                print("ERROR: " + row['name'] + ": " + str(birth) + " to " + str(death))
 def delete_all_base(engine):
     meta = MetaData()
     meta.reflect(bind=engine)
@@ -74,7 +74,7 @@ def main():
     delete_all_base(engine)
     Base.metadata.create_all(bind=engine)
     session = SessionLocal()
-    #check_date_personne()
+    check_date_personne()
     inserer_donnees_csv_map(session)
     inserer_donnees_csv_pers(session)
     inserer_donnees_csv_script(session)
