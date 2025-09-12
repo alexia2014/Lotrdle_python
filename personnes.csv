@@ -211,7 +211,7 @@ Orodreth (Steward);TA 2576;TA 2685;Male;Men;Unnamed wife
 Orodreth;YT 1350;FA 495 Battle of Tumhalad;Male;Elves;Unnamed wife
 Ori;TA 2865;TA 2994;Male;Dwarves;None
 Orcobal;None;FA 510;Male;Orcs;None
-Orchaldor;Sometime beFAre SA 799;None;Male;Men;Ailinel
+Orchaldor;Sometime SA 799;None;Male;Men;Ailinel
 Ondoher;TA 1787;TA 1944;Male;Men;Unnamed wife
 Olwë;VY 6;Still Alive;Male;Elves;Unnamed Wife
 Old Noakes;TA 2923;FA 2;Male;Hobbits;Unnamed wife
@@ -235,7 +235,7 @@ Hendor;None;None;Male;Elves;None
 Herefara;TA 2956;March 15 3019;Male;Men;Unnamed wife
 Henderch;SA 50;unknown;Male;Men;None
 Helm Hammerhand;TA 2691;TA 2759;Male;Men;Unnamed wife
-Hatholdir;Sometime beFAre SA 799;None;Male;Men;Unnamed wife
+Hatholdir;Sometime SA 799;None;Male;Men;Unnamed wife
 Hathol;FA 365;None;Male;Men;None
 Hathaldir;Mid YT 1300;FA 460;Male;Men;None
 Hareth;FA 419;None;Female;Men;Galdor
@@ -269,7 +269,7 @@ Dodinas Brandybuck;None;None;Male;Hobbits;None
 Dior (Steward);TA 2328;TA 2435;Male;Men;Possibly none
 Dior;FA 470;FA 506 ;Male;Half-elven;Nimloth
 Dinodas Brandybuck;SR 1316;SR 1410;Male;Hobbits;None
-Diamond Took;TA 2995;BeFAre FA 63;Female;Hobbits;Peregrin Took
+Diamond Took;TA 2995;FA 63;Female;Hobbits;Peregrin Took
 Dervorin;TA 3000;None;Male;Men;None
 Derufin;TA 3000;Mid March 3019;Male;Men;None
 Denethor II;TA 2930;March 15 3019;Male;Men;Finduilas
@@ -305,7 +305,7 @@ Hugo Boffin;TA 2854;TA 2945;Male;Hobbits;Donnamira Took
 GrifFA Boffin;TA 2946;None;Male;Hobbits;Daisy Baggins
 Gerda (Boffin) Bolger;TA 2904;TA 3004;Female;Hobbits;Adalbert Bolger
 FAlco Boffin;TA 2978;FA 2;Male;Hobbits;None
-Druda Burrows Boffin;beFAre TA 2860;None;Female;Hobbits;Rollo Boffin
+Druda Burrows Boffin;TA 2860;None;Female;Hobbits;Rollo Boffin
 Daisy (Baggins) Boffin;TA 2950;None;Female;Hobbits;GrifFA Boffin
 Bosco Boffin;TA 2767;TA 2858;Male;Hobbits;Unnamed wife
 Basso Boffin;TA 2769;None;Male;Hobbits;None
@@ -393,10 +393,10 @@ Gothmog;VY 0;FA 510;Male;MaiarBalrogs;None
 Gostir;None;None;Male;Dragons;None
 Gormadoc Deepdelver Brandybuck;SR 1134;SR 1236;Male;Hobbits;Malva Headstrong
 Gorhendad (Oldbuck) Brandybuck;TA 2274;None;Male;Hobbits;Unnamed wife
-Gorbulas Brandybuck;TA 2908;BeFAre TA 3001;Male;Hobbits;Unnamed wife
+Gorbulas Brandybuck;TA 2908;TA 3001;Male;Hobbits;Unnamed wife
 Gorbag;None;March 14 3019 slain by Shagrat;Male;Uruk-haiOrc;None
 Gollum;TA 2430;March 25 3019;Male;Hobbits;None
-Golfimbul;Unknown beFAre TA 2700;TA 2747;Male;OrcGoblin;None
+Golfimbul;Unknown TA 2700;TA 2747;Male;OrcGoblin;None
 Hanna (Goldworthy) Brandybuck;None;None;Female;Hobbits;Madoc Brandybuck
 Goldwine;TA 2619;TA 2699;Male;Men;None
 Golasgil;TA 3000;None;Male;Men;None
@@ -461,7 +461,7 @@ Walda;TA 2780;TA 2851;Male;Men;Unnamed wife
 Vëantur;SA 451;SA 727;Male;Men;Unnamed wife
 Voronwë;FA 1;FA 525;Male;Elves;None known
 Vorondil;TA 1919;TA 2029;Male;Men;Unnamed wife
-Vidumavi;BeFAre TA 1255;TA 1344;Female;Men;Valacar
+Vidumavi;TA 1255;TA 1344;Female;Men;Valacar
 Vidugavia;TA 1400;None;Male;Men;Unnamed wife
 Vardilmë;SA 203;SA 250;Female;Men;None
 Vardamir Nolimon;SA 61;SA 471;Male;Men;Unnamed wife
@@ -498,7 +498,7 @@ Rosa (Baggins) Took;SR 1256;None;Female;Hobbits;Hildigrim Took
 Beregond (Captain);TA 2976;FA 5;Male;Men;Unnamed wife
 Beregond;TA 2700;TA 2811;Male;Men;Unnamed wife
 Bereg;FA 340;None;Male;Men;None
-Beorn;None;BeFAre the War of the Ring;Male;Skin-changer;None
+Beorn;None;the War of the Ring;Male;Skin-changer;None
 Belen;FA 292;None;Male;Men;Unnamed wife
 Belemir;FA 339;None;Male;Men;Adanel
 Belegund;YT 1400;FA 460;Male;Men;Unnamed wife
@@ -563,7 +563,7 @@ May Gamgee;TA 2976;None;Female;Hobbits;None
 Hamson Gamgee;TA 2965;None;Male;Hobbits;None
 Hamfast Gamgee;SR 1326;SR 1428;Male;Hobbits;Bell Goodchild
 Halfred Gamgee;TA 2969;None;Male;Hobbits;None
-Frodo Gardner;SR 1423;SR 1531 ;Male;Hobbits;Unnamed wife
+Frodo Gardner;SR 1423;SR 1531;Male;Hobbits;Unnamed wife
 Daisy Gamgee I;TA 2972;FA 54;Female;Hobbits;None
 Galion;None;None;Male;Elves;None
 Galdor of the Tree;None;None;Male;Elves;None
@@ -627,7 +627,7 @@ Boron;FA 315;FA 408;Male;Men;Unnamed wife
 Boromir (Steward);TA 2410;TA 2489;Male;Men;Unnamed wife
 Boromir (House of Bëor);FA 338;FA 432;Male;Men;Unnamed wife
 Peregrin Took;TA 2990;FA 65;Male;Hobbits;Diamond of Long Cleeve
-Pearl Took;TA 2975;beFAre FA 63;Female;Hobbits;None
+Pearl Took;TA 2975;FA 63;Female;Hobbits;None
 Paladin Took II;TA 2933;FA 13;Male;Hobbits;Eglantine Banks
 Isembard Took;TA 2847;TA 2946;Male;Hobbits;None
 Hildigrim Took;SR 1240;SR 1341;Male;Hobbits;Rosa Baggins
