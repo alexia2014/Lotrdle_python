@@ -3,6 +3,7 @@ from sqlalchemy import create_engine, MetaData
 from sqlalchemy.orm import sessionmaker, Session
 from models import Base, Lieu, Personnage, Script
 import sys
+from lortdle import compare_date
 
 def inserer_donnees_csv_map(session):
     with open("lieux.csv", newline='') as csvfile:
@@ -51,6 +52,14 @@ def inserer_donnees_csv_script(session):
         session.commit()
     session.close()
 
+def check_date_personne():
+    with open("personnes.csv", newline='', encoding="utf-8-sig") as csvfile:
+        reader = csv.DictReader(csvfile, delimiter=';')
+        for row in reader:
+            birth = compare_date(row['birth'])
+            death = compare_date(row['death'])
+            if (row['birth'] != 'None' and not row['birth'][3:].isnumeric() or row['death'] != 'None' and not row['death'][3:].isnumeric()):
+                print("ERROR: " + row['name'] + ": " + str(row['birth']) + " to " + str(row['death']))
 def delete_all_base(engine):
     meta = MetaData()
     meta.reflect(bind=engine)
@@ -65,6 +74,7 @@ def main():
     delete_all_base(engine)
     Base.metadata.create_all(bind=engine)
     session = SessionLocal()
+    #check_date_personne()
     inserer_donnees_csv_map(session)
     inserer_donnees_csv_pers(session)
     inserer_donnees_csv_script(session)

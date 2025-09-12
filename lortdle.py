@@ -57,10 +57,15 @@ def compare_date(answer: str):
         "TA": 3021,
         "FA": 2500
     }
+    if "SR" in answer:
+        index = answer.find("SR") + 3
+        datesr = check_digit(answer, index) + 1300
+        answer = "TA " + str(datesr)
     for marker, fallback in markers.items():
         if marker in answer:
             index = answer.find(marker) + 3
             date += check_digit(answer, index)
+            break
         else:
             date += fallback
     return date

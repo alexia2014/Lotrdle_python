@@ -31,7 +31,6 @@ async function initTable(script) {
     }
     autocomplete(document.getElementById("guessInput"), get_name(data.name));
     updateHistoryTable(script);
-    document.getElementById("share").disabled = true;
     DisplayOldGuess(script);
     return 0;
   })
