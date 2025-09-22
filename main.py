@@ -151,7 +151,7 @@ def get_answer(db, name):
         rows = db.execute(query).fetchall()
         result["name"] = [row[0] for row in rows]
     nb = len(result["name"])
-    answer_index = lortdle.init(nb)
+    answer_index = lortdle.get_hazard_pers(nb)
     if name == "scripting":
         name = Script
     elif name == "lieux":

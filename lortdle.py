@@ -121,11 +121,6 @@ def compare_vector(guest, answer, categories: list[str]):
                         returne.append("red")
     return returne, up
 
-
-def init(n: int):
-    answer = get_hazard_pers(n)
-    return answer
-
 def check_guess(guest_db, answer, categories):
     result = []
     guess_answer = []

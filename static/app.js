@@ -295,7 +295,7 @@ async function searchYouTubeVideo(quote) {
       if (data.videoId) {
             const videoUrl = `https://www.youtube.com/watch?v=${data.videoId}`;
             document.getElementById("video-link").innerHTML = `
-              <a href="${videoUrl}" target="_blank" style="color: #00cc33ff; text-decoration: none;">Voir la vidéo sur YouTube</a>`;
+              <a href="${videoUrl}" target="_blank" style="color: #ffffffff; text-decoration: none;">Voir la vidéo sur YouTube</a>`;
           } else {
             document.getElementById("video-link").innerText = "Vidéo non trouvée.";
           }
