@@ -129,10 +129,13 @@ def get_test_one(item: Item, db: Session = Depends(get_db)):
     inspector = inspect(db.bind)
     lieu = db.query(Script).filter(Script.name.ilike(item.name)).first()
     answer, _ = get_answer(db, "scripting")
-    if (getattr(lieu, "name") == getattr(answer, "name")):
-        result = {"columns": ["<span style=\"color:green;\">"+ item.name +"</span>"], "found": 1, "verse": getattr(answer, "verse"), "movie": getattr(answer, "movie"), "color": ["green"]}
+    if lieu:
+        if (getattr(lieu, "name") == getattr(answer, "name")):
+            result = {"columns": ["<span style=\"color:green;\">"+ item.name +"</span>"], "found": 1, "verse": getattr(answer, "verse"), "movie": getattr(answer, "movie"), "color": ["green"]}
+        else:
+            result = {"columns": ["<span style=\"color:red;\">"+ item.name +"</span>"], "found": 0, "color": ["red"]}
     else:
-        result = {"columns": ["<span style=\"color:red;\">"+ item.name +"</span>"], "found": 0, "color": ["red"]}
+        result = {"columns": [],"found": 0}
     return result
 
 def get_answer(db, name):
@@ -149,7 +152,6 @@ def get_answer(db, name):
         result["name"] = [row[0] for row in rows]
     nb = len(result["name"])
     answer_index = lortdle.init(nb)
-    print(nb)
     if name == "scripting":
         name = Script
     elif name == "lieux":
