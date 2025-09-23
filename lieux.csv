@@ -13,7 +13,7 @@ Dale;Ville;None;Dale;Montagne Solitaire;Long lac,Celduin;Bataille des cinq armée
 Dol Guldur;Forteresse;None;Dol Guldur;Amon Lanc;None;Guerre de l'anneau;Orc,Nazgûl
 Doriath;Royaume;None;Menegroth;None;Esgalduin,Arthorien;Première Bataille du Beleriand,Guerre de la Grande Colère ;Elfe
 Dorwinion;Région;Rhûn;None;Montagne Solitaire,Collines de Fer;Celduin;Bataille des cinq armées;Homme
-Erebor;Montagne;None;Erebor;Montagne Solitaire;None;Bataille des cinq armées,Bataille de Dale;Elfe
+Erebor;Montagne;None;Erebor;Montagne Solitaire;None;Bataille des cinq armées,Bataille de Dale;Nain
 Eregion;Région;Grande Mer;Ost-in-Edhil;Monts Brumeux,Caradhras;Bruinen,Glanduin;Guerre de la Grande Colère;Elfe
 Esgaroth;Ville;None;Esgaroth;Montagne Solitaire;Long Lac;Bataille de Dale;Homme,Nain
 Estolad;Région;Grande Mer;None;None;None;Guerre de la Grande Colère;Homme
@@ -47,7 +47,7 @@ Osgiliath;Ville;None;Osgiliath;None;Anduin;Bataille d'Osgiliath;Homme,Orc
 Ossiriand;Région;None;None;Montagnes Bleues;Gelion;Guerre des Joyaux;Elfe
 Portes de Durin;Porte;None;Khazad-dûm;Caradhras;Sirannon;Fléau de Durin;Nain,Elfe,Homme,Hobbit,Balrog
 Rhovanion;Région;Rhûn;Erebor,Dale;Monts Brumeux;Anduin;Bataille des cinq armées,Guerre de l'anneau;Homme,Elfe,Nain,Orc
-Rhûn;Région;Rhûn,Mer Orientale;None;Montagnes Rouges;Carnen-Celduin;Paix Vigilante ;Homme
+Rhûn;Région;Rhûn,Mer Orientale;None;Montagnes Rouges;Carnen-Celduin;Paix Vigilante;Homme
 Fondcombe;Ville;Grande Mer;Fondcombe;Monts Brumeux;Bruinen;Guerre des Elfes contre Sauron;Homme,Elfe
 Rohan;Région;None;Edoras;Montagnes Blanches,Monts Brumeux;;Limeclaire;Homme
 Royaume Réunifié;Royaume;Grande Mer,Rhûn;Minas Tirith,Annuminas;Monts Brumeux;Anduin, Rivière Enchantée,Rivière de la Forêt,Celduin,Carnen;Guerre de l'anneau;Homme
@@ -65,3 +65,6 @@ Royaume Sylvestre;Royaume;None;None;Montagnes du Royaume Sylvestre;Rivière Encha
 Forêt de Fangorn;Forêt;None;Isengard;Monts Brumeux;Isen;Attaque des Ents;Ent
 Valimar;Ville;None;Valimar;Colline Ezellohar;None;Empoisonnement des Deux Arbres de Valinor;Valar,Maiar,Elfe
 Iles Enchantées;Île;Océan Belegaer;None;None;None;Submersion de Numenor,Guerre de la Grande Colère;None
+Eriador;Région;Grande Mer;None;Montagnes Bleues,Monts Brumeux;Baranduin,Lhûn;Bataille des Champs Verts,Désastre des champs d'iris;Nain,Elfe,Hobbit,Homme
+Cardolan;Royaume;Grande Mer;None;Minhiriath;Baranduin,Flot Gris;Guerre de l'anneau,Guerre de la Grande Colère;Hobbit,Dunedain
+Harondor;Région;Grande Mer;None;Monts de l'Ombre;Harnen,Anduin;Geurre de l'anneau;Homme,Pirate

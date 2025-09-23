@@ -90,7 +90,7 @@ async function FetchAndAnswer(guess, resultDiv, sigle_guess, script) {
         guessInput.disabled = true;
         document.getElementById("share").disabled = false;
         if (script == "script")
-          searchYouTubeVideo(result.verse + " " + result.movie);
+          searchYouTubeVideo(result.verse + " " + guess[guess.length-2] + " " + result.movie);
       }
       foundText = result.found == 1 ? "trouve" : "non trouve";
       if (sigle_guess)
