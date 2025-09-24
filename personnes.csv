@@ -1,21 +1,21 @@
 name;birth;death;gender;race;spouse
 Adanel;None;None;Female;Men;Belemir
 Boromir;TA 2978;February 26 3019;Male;Men;None
-Lagduf;None;March 3019;Male;Orcs;None
+Lagduf;None;March 3019;Male;Orc;None
 Tarcil;TA 280;TA 515;Male;Men;Unnamed wife
 Fire-drake of Gondolin;None;None;Male;Dragon;None
 Ar-Adunakhôr;SA 2709;SA 2962;Male;Men;Unnamed wife
-Annael;None;None;Male;Elves;None
-Angrod;YT 1350;FA 455;Male;Elves;Eldalotë
+Annael;None;None;Male;Elf;None
+Angrod;YT 1350;FA 455;Male;Elf;Eldalotë
 Anarion;SA 3219;SA 3440;Male;Men;Unnamed wife
 Ar-Pharazôn;SA 3118;Still alive;Male;Men;Tar-Miriel
 Ar-Sakalthôr;SA 2876;SA 3102;Male;Men;Unnamed wife
 Ar-Gimilzôr;SA 2960;SA 3177;Male;Men;Inzilbêth
 Angelimir;TA 2866;TA 2977;Male;Men;Unnamed wife
 Angbor;TA 3000;None;Male;Men;None
-Nurwë;Perhaps Firstborn;None;None;Elves;None
-Penlod;None;FA 510;Male;Elves;None
-Pengolodh;YT 1;None;Male;Elves;None
+Nurwë;Perhaps Firstborn;None;None;Elf;None
+Penlod;None;FA 510;Male;Elf;None
+Pengolodh;YT 1;None;Male;Elf;None
 Tarannon Falastur;TA 654;TA 913;Male;Men;Beruthiel
 Tar-Vanimeldë;SA 2277;SA 2637;Female;Men;Herucalmo
 Tar-Telperiên;SA 1320;SA 1731;Female;Men;None
@@ -38,89 +38,88 @@ Tar-Alcarin;SA 2406;SA 2737;Male;Men;Unnamed wife
 Morwen Steelsheen;TA 2922;None;Female;Men;Thengel
 Soronto;SA 799;SA 1000;Male;Men;None
 Tar-Aldarion;SA 700;SA 1098;Male;Men;Erendis
-Finwë;YT 5;YT 1495;Male;Elves;Miriel Serindë then Indis
-Finrod;YT 1300;SA 465;Male;Elves;Loved Amarië but they never married
-Fingon;YT 1200;SA 472;Male;Elves;None
-Fingolfin;YT 1190;FA 455;Male;Elves;Anairë
+Finwë;YT 5;YT 1495;Male;Elf;Miriel Serindë then Indis
+Finrod;YT 1300;SA 465;Male;Elf;Loved Amarië but they never married
+Fingon;YT 1200;SA 472;Male;Elf;None
+Fingolfin;YT 1190;FA 455;Male;Elf;Anairë
 Finduilas of Dol Amroth;TA 2950;TA 2988;Female;Men;Denethor II
-Finduilas;FA 272;FA 495;Female;Elves;None betrothed to Gwindor but never married.
-Findis;YT 200;None;Female;Elves;None
+Finduilas;FA 272;FA 495;Female;Elf;None betrothed to Gwindor but never married.
+Findis;YT 200;None;Female;Elf;None
 Findegil;YS 100;sometime after YS 172;Male;Men;None
-Finarfin;YT 1230;Still Alive;Male;Elves;Eärwen
-Ferumbras Took II;TA 2701;TA 2801;Male;Hobbits;Unnamed wife
+Finarfin;YT 1230;Still Alive;Male;Elf;Eärwen
+Ferumbras Took II;TA 2701;TA 2801;Male;Hobbit;Unnamed wife
 Bill Ferny;TA 3000;FA 6;Male;Men;None
 Fengel;TA 2870;TA 2953;Male;Men;None
 Fastred (Pelennor Fields);TA 2600;March 15 3019;Male;Men;None
 Fastred;TA 2858;TA 2885;Male;Men;None
-Fastolph Bolger;SR 1210;None;Male;Hobbits;Pansy Baggins
-Farin;TA 2560;TA 2803;Male;Dwarves;Unnamed wife
+Fastolph Bolger;SR 1210;None;Male;Hobbit;Pansy Baggins
+Farin;TA 2560;TA 2803;Male;Dwarf;Unnamed wife
 Faramir (son of Ondoher);TA 1502;TA 1944;Male;Men;None
 Faramir;TA 2983;February 26 82;Male;Men;owyn
-Snaga (Two Towers orc);None;February 293019;Male;Orcs;None
-Snaga;None;TA 3019;Male;Orcs;None
-Smaug;TA 2770;TA 2941;Male;Dragons;None
-Robin Smallburrow;TA 2900;None;Male;Hobbits;None
+Snaga (Two Towers orc);None;February 293019;Male;Orc;None
+Snaga;None;TA 3019;Male;Orc;None
+Smaug;TA 2770;TA 2941;Male;Dragon;None
+Robin Smallburrow;TA 2900;None;Male;Hobbit;None
 Siriondil;TA 570;TA 830;Male;Men;Unnamed wife
 Silmariën;SA 521;None;Female;Men;Elatan
-Shelob;YT 50;Unknown possibly TA 3019;Female;Great Spiders;None
-Shagrat;TA 2050;None;Male;Black Uruk;None
-Scatha;None;TA 2000;Male;Dragons;None
+Shelob;YT 50;Unknown possibly TA 3019;Female;Spider;None
+Shagrat;TA 2050;None;Male;Uruk-hai;None
+Scatha;None;TA 2000;Male;Dragon;None
 Sauron;VY 0;TA 3019;Male;Maiar;None
 Saruman;VY 0;3 November TA 3019;Male;Maiar;None
 Salmar;VY 0;Immortal;Male;Ainur;None
-Saradas Brandybuck;SR 1308;SR 1407;Male;Hobbits;None
+Saradas Brandybuck;SR 1308;SR 1407;Male;Hobbit;None
 Sangahyando;TA 1600;None;Male;Men;None
-Ted Sandyman;TA 2920;FA 50;Male;Hobbits;None
-Salgant;None;Fate officially unknown;Male;Elves;None
+Ted Sandyman;TA 2920;FA 50;Male;Hobbit;None
+Salgant;None;Fate officially unknown;Male;Elf;None
 Sagroth;None;None;Male;Men;None
-Saeros;YT 5;FA 484;Male;Elves;None
+Saeros;YT 5;FA 484;Male;Elf;None
 Saelon;FA 62;None;Male;Men;None
 Sador;about FA 430;FA 495;Male;Men;None
-Sadoc Brandybuck;SR 1179;None;Male;Hobbits;Unnamed wife
-Lotho Sackville-Baggins;TA 2964;TA 3019;Male;Hobbits;None
-Lobelia Sackville-Baggins;TA 2918;TA 3020;Female;Hobbits;Otho Sackville-Baggins
+Sadoc Brandybuck;SR 1179;None;Male;Hobbit;Unnamed wife
+Lotho Sackville-Baggins;TA 2964;TA 3019;Male;Hobbit;None
+Lobelia Sackville-Baggins;TA 2918;TA 3020;Female;Hobbit;Otho Sackville-Baggins
 Romendacil II;TA 1126;TA 1366;Male;Men;Unnamed wife
 Romendacil I;TA 310;TA 541;Male;Men;Unnamed wife
 Rian (Gondor);TA 2328;None;Female;Men;Unnamed husband
 Rian;FA 450;FA 473;Female;Men;Huor
-Rufus Burrows;None;None;Male;Hobbits;Asphodel Brandybuck
-Rumil of Lorien;None;None;Male;Elves;None
-Rudigar Bolger;SR 1255;SR 1348;Male;Hobbits;Belba Baggins
-Roäc;TA 2788;None;Male;Raven;None
-Rowan Greenhand;TA 2849;TA 3000;Male;Hobbits;Belba Baggins
-Rog;None;FA 510;Male;Elves;None
+Rufus Burrows;None;None;Male;Hobbit;Asphodel Brandybuck
+Rumil of Lorien;None;None;Male;Elf;None
+Rudigar Bolger;SR 1255;SR 1348;Male;Hobbit;Belba Baggins
+Rowan Greenhand;TA 2849;TA 3000;Male;Hobbit;Belba Baggins
+Rog;None;FA 510;Male;Elf;None
 Ragnor;FA 3;FA 460;Male;Men;None
 Radhruin;YT 1400;FA 460;Male;Men;None
 Radagast;VY 0;None;Male;Maiar;None
-Odo ProudFAot;TA 2904;TA 3005;Male;Hobbits;Mrs. ProudFAot
-Mrs. ProudFAot;TA 3000;None;Female;Hobbits;Odo ProudFAot
-Khîm;None;FA 486;Male;Dwarves;None
-Khamûl;SA 268;None;Male;MenWraith;None
+Odo ProudFAot;TA 2904;TA 3005;Male;Hobbit;Mrs. ProudFAot
+Mrs. ProudFAot;TA 3000;None;Female;Hobbit;Odo ProudFAot
+Khîm;None;FA 486;Male;Dwarf;None
+Khamûl;SA 268;None;Male;Nazgûl;None
 Ivriniel;TA 2947;None;Female;Men;None
 Ivorwen;TA 2857;TA 2929;Female;Men;Dirhael
 Isilmë;SA 532;None;Female;Men;None
 Isilmo;SA 1320;SA 1731;Male;Men;Unnamed wife
 Isildur;SA 3209;TA 2;Male;Men;Unnamed wife
-Isengrim Took III;TA 2832;TA 2930;Male;Hobbits;Not married
-Isembold Took;TA 2842;TA 2946;Male;Hobbits;Unnamed wife 
+Isengrim Took III;TA 2832;TA 2930;Male;Hobbit;Not married
+Isembold Took;TA 2842;TA 2946;Male;Hobbit;Unnamed wife 
 Irmo;VY 0;Immortal;Male;Ainur;Estë
 Iorlas;TA 2990;FA 25;Male;Men;None
 Ioreth;TA 3000;None;Female;Men;None
 Inzilbêth;Late SA 3000;None;Female;Men;Ar-Gimilzôr
 Ingwion;YT 1120;Unknown probably still alive;Male;Elf;None
-Ingwë;YT 1065;Still Alive;Male;Elves;Unnamed wife
+Ingwë;YT 1065;Still Alive;Male;Elf;Unnamed wife
 Ingold;TA 3000;FA 2;Male;Men;None
 Indor;FA 2;FA 495;Male;Men;Unnamed wife
-Indis;None;Still Alive;Female;Elves;Finwë
+Indis;None;Still Alive;Female;Elf;Finwë
 Imrazôr;TA 1950;TA 2076;Male;Men;Mithrellas
 Imrahil;TA 2955;FA 34;Male;Men;Unnamed wife
 Imlach;FA 310;None;Male;Men;Unnamed wife
-Iminyë;YT 1;None;Female;Elves;Imin
-Imin;YT 1;None;Male;Elves;Iminyë
+Iminyë;YT 1;None;Female;Elf;Imin
+Imin;YT 1;None;Male;Elf;Iminyë
 Eru Iluvatar;None;None;Male;God;None
 Ilmarë;VY 0;None;Female;Ainur;None
-Idril;YT 1469;Still Alive;Female;Elves;Tuor
-Ibûn;None;FA 489;Male;Dwarves;Unknown possibly none
+Idril;YT 1469;Still Alive;Female;Elf;Tuor
+Ibûn;None;FA 489;Male;Dwarf;Unknown possibly none
 Hurin of Emyn Arnen;TA 1200;TA 1350;Male;Men;None
 Hurin II;TA 2515;TA 2628;Male;Men;Unnamed wife
 Hurin I;TA 2124;TA 2244;Male;Men;Unnamed wife
@@ -133,105 +132,104 @@ Huor;FA 442;FA 473;Male;Men;Rian
 Hunthor;Late FA;FA 499;Male;Men;Unnamed wife
 Hundar;YT 1400;FA 473;Male;Men;Unnamed wife
 Hundad;YS 211;YS 360;Male;Men;Unnamed wife
-Huan;FA;FA 466;Male;Wolfhound;None
-Tobias Hornblower;TA 3000;Late TA 3018;Male;Hobbits;None
+Tobias Hornblower;TA 3000;Late TA 3018;Male;Hobbit;None
 Horn;TA 3000;TA 3019;Male;Men;None
 Eönwë;VY 0;Immortal;Male;Ainur;None
-Eöl;YT 1115;FA 400;Male;Elves;Aredhel
-Eärwen;YT 1280;Still alive;Female;Elves;Finarfin
+Eöl;YT 1115;FA 400;Male;Elf;Aredhel
+Eärwen;YT 1280;Still alive;Female;Elf;Finarfin
 Eärnur;TA 1928;TA 2050;Male;Men;None
 Eärnil II;TA 1883;TA 2043;Male;Men;Unnamed wife
 Eärnil I;TA 736;TA 936;Male;Men;Unnamed wife
 Eärendur of Numenor;SA 361;SA 502;Male;Men;Unnamed wife
-Eärendur of Arnor;TA 640;TA 861;Male;None;Unnamed wife
+Eärendur of Arnor;TA 640;TA 861;Male;Men;Unnamed wife
 Eärendur (Lord of Andunië);SA 2600;SA 3000;Male;Men;None
 Eärendil of Gondor;TA 48;TA 324;Male;Men;Unnamed wife
 Eärendil;FA 503;Still Alive;Male;Half-elven;Elwing
 Estë;VY 0;Immortal;Female;Ainur;Irmo
 Estelmo;SA 2400;TA 1200;Male;Men;None
 Erkenbrand;TA 3000; FA 20;Male;Men;None
-Erestor;None;None;Male;Elves;None
+Erestor;None;None;Male;Elf;None
 Erendis;SA 771;SA 985;Female;Men;Tar-Aldarion
 Erchirion;TA 2990;FA 2;Male;Men;None
 Eradan;TA 1999;TA 2116;Male;Men;Unnamed wife
 owyn;TA 2995;FA;Female;Men;Faramir
 Eorl the Young;TA 2485;TA 2545;Male;Men;Unnamed wife
 omer;TA 2990;FA 63;Male;Men;Lothiriel after the War of the Ring
-Enerdhil;Unknown;None;Male;Elves;None
-Enelyë;YT 1;None;Female;Elves;Enel
-Enel;YT 1;None;Male;Elves;Enelyë
+Enerdhil;Unknown;None;Male;Elf;None
+Enelyë;YT 1;None;Female;Elf;Enel
+Enel;YT 1;None;Male;Elf;Enelyë
 Emeldir;FA 406;None;Female;Men;Barahir
 Elwing;FA 503;Still Alive;Female;Half-elven;Eärendil
-Eluréd and Elurin;FA 500;FA 506;Male;Elves;None
+Eluréd and Elurin;FA 500;FA 506;Male;Elf;None
 Elros;YS 532;SA 442;Male;Half-elven;Unnamed wife
 Elrond;YS 532;Still alive departed to Aman on September 29 TA 3021;Male;Half-elven;CelebRian
 Elphir;TA 2987;FA 57;Male;Men;Unnamed wife
-Elladan and Elrohir;TA 130;None;Male;Elves;None
-Elfwine;FA 8;FA 103;Male;Men;None
-Elfhild;TA 2950;TA 2978;Female;Men;Théoden
-Elfhelm;TA 2985;FA 2;Male;Men;None
-Elenwë;YT 9;YT 1500;Female;Elves;Turgon
+Elladan and Elrohir;TA 130;None;Male;Elf;None
+Elveswine;FA 8;FA 103;Male;Men;None
+Elveshild;TA 2950;TA 2978;Female;Men;Théoden
+Elveshelm;TA 2985;FA 2;Male;Men;None
+Elenwë;YT 9;YT 1500;Female;Elf;Turgon
 Elendur of Arnor;TA 552;TA 777;Male;Men;Unnamed wife
 Elendur;SA 3299;TA 2;Male;Men;Unnamed wife
 Elendil;SA 3119;SA 3441 ;Male;Men;Unnamed wife
-Elemmirë (elf);None;Presumably still alive;None;Elves;None
-Elemmakil;None;FA 510(presumably);Male;Elves;None
+Elemmirë (Elves);None;Presumably still alive;None;Elf;None
+Elemmakil;None;FA 510(presumably);Male;Elf;None
 Eldarion;FA 43;FA 220;Male;Men;None
 Eldacar (King of Gondor);TA 1255;TA 1490;Male;Men;Unnamed wife
 Eldacar (King of Arnor);TA 87;TA 339;Male;Men;Unnamed wife
 Elboron;None;None;Male;Men;None
 Elatan;SA 2;SA 53;Male;Men;Silmariën
 Eilinel;YT 350;YT 455;Female;Men;Gorlim
-Eglantine (Banks) Took;YT 351;YT 460;Female;Hobbits;Paladin Took II
-Egalmoth (elf);None;FA 538;Male;Elves;Unknown possibly none
+Eglantine (Banks) Took;YT 351;YT 460;Female;Hobbit;Paladin Took II
+Egalmoth (Elves);None;FA 538;Male;Elf;Unknown possibly none
 Egalmoth;TA 2626;TA 2743;Male;Men;Unnamed wife
 Edrahil;None;FA 465;Male;Elf;None
-Ecthelion of the FAuntain;None;FA 510;Male;Elves;None
+Ecthelion of the FAuntain;None;FA 510;Male;Elf;None
 Ecthelion II;TA 2886;TA 2984;Male;Men;Unnamed wife
 Ecthelion I;TA 2600;TA 2698;Male;Men;Possibly none
 Dunhere;TA 3000;March 15 3019;Male;Men;None
-Dis;TA 2760;After TA 2941;Female;Dwarves;None
+Dis;TA 2760;After TA 2941;Female;Dwarf;None
 Dirhavel;FA 360;FA 538;Male;Men;None
 Dirhael;TA 2838;After TA 2929;Male;Men;Ivorwen
 Déorwine;TA 3000;March 15 3019;Male;Men;None
-Déor;TA 2644;TA 2718;Male;MenRohirrim;None
-Déagol;Between TA 2400 and TA 2430;TA 2463;Male;Hobbits;None
+Déor;TA 2644;TA 2718;Male;Men;None
+Déagol;Between TA 2400 and TA 2430;TA 2463;Male;Hobbit;None
 Borlas;TA 3011;None;Male;Men;Unnamed wife
 Borlad;YT 1400;FA 473;Male;Men;Unnamed wife
 Pelendur;TA 1879;TA 1998;Male;Men;None
 Pallando;VY 0;None;Male;Ainur;None
-Otho Sackville-Baggins;TA 2910;TA 3012;Male;Hobbits;Lobelia Sackville-Baggins
+Otho Sackville-Baggins;TA 2910;TA 3012;Male;Hobbit;Lobelia Sackville-Baggins
 Ostoher;TA 222;TA 492;Male;Men;Unnamed wife
 Ossë;YS 8;Immortal;Male;Ainur;Uinen
-Orophin;None;None;Male;Elves;None
-Oropher;YS 506;SA 3434;Male;Elves;Unnamed wife
+Orophin;None;None;Male;Elf;None
+Oropher;YS 506;SA 3434;Male;Elf;Unnamed wife
 Oromë;VY 0;Immortal;Male;Ainur;Vana
 Oromendil;SA 382;None;Male;Men;None
 Orodreth (Steward);TA 2576;TA 2685;Male;Men;Unnamed wife
-Orodreth;YT 1350;FA 495 Battle of Tumhalad;Male;Elves;Unnamed wife
-Ori;TA 2865;TA 2994;Male;Dwarves;None
-Orcobal;None;FA 510;Male;Orcs;None
+Orodreth;YT 1350;FA 495 Battle of Tumhalad;Male;Elf;Unnamed wife
+Ori;TA 2865;TA 2994;Male;Dwarf;None
+Orcobal;None;FA 510;Male;Orc;None
 Orchaldor;Sometime SA 799;None;Male;Men;Ailinel
 Ondoher;TA 1787;TA 1944;Male;Men;Unnamed wife
-Olwë;VY 6;Still Alive;Male;Elves;Unnamed Wife
-Old Noakes;TA 2923;FA 2;Male;Hobbits;Unnamed wife
+Olwë;VY 6;Still Alive;Male;Elf;Unnamed Wife
+Old Noakes;TA 2923;FA 2;Male;Hobbit;Unnamed wife
 Ohtar;Late SA 3000;None;Male;Men;None
 Nuneth;SA 50;None;Female;Men;Beregar
 Numendil;Late SA 3000 ;SA 3065;Male;Men;Unnamed wife
-Nar;TA 2500;TA 3000;Male;Dwarves;None
-Nali;TA 2758;TA 2994;Male;Dwarves;None
-Nain II;TA 2338;TA 2585;Male;Dwarves;Unnamed wife
-Nain I;TA 1832;TA 1981;Male;Dwarves;Unnamed wife
-Nain (father of Dain II IronFAot);TA 2665;TA 2799;Male;Dwarves;Unnamed wife
-Hob Hayward;TA 3000;None;Male;Hobbits;None
-Hob Gammidge;TA 2846;None;Male;Hobbits;Rowan
+Nar;TA 2500;TA 3000;Male;Dwarf;None
+Nali;TA 2758;TA 2994;Male;Dwarf;None
+Nain II;TA 2338;TA 2585;Male;Dwarf;Unnamed wife
+Nain I;TA 1832;TA 1981;Male;Dwarf;Unnamed wife
+Nain (father of Dain II IronFAot);TA 2665;TA 2799;Male;Dwarf;Unnamed wife
+Hob Hayward;TA 3000;None;Male;Hobbit;None
+Hob Gammidge;TA 2846;None;Male;Hobbit;Rowan
 Hirluin;TA 3000;March 15 3019;Male;Men;None
 Hirgon;TA 3000;TA 3019;Male;Men;None
 Herumor;FA 41;None;Male;Men;None
 Herucalmo;SA 2286;SA 2657;Male;Men;Tar-Vanimeldë
 Herubrand;TA 2853;March 15 3019;Male;Men;Unnamed wife
 Herion;TA 2037;TA 2148;Male;Men;Unnamed wife
-Hendor;None;None;Male;Elves;None
+Hendor;None;None;Male;Elf;None
 Herefara;TA 2956;March 15 3019;Male;Men;Unnamed wife
 Henderch;SA 50;unknown;Male;Men;None
 Helm Hammerhand;TA 2691;TA 2759;Male;Men;Unnamed wife
@@ -242,126 +240,125 @@ Hareth;FA 419;None;Female;Men;Galdor
 Harding;TA 3000;March 15 3019;Male;Men;None
 Hardang;FA 470;FA 501;Male;Men;None
 Handir;FA 441;FA 495;None;Men;Beldis
-Hamfast of Gamwich;TA 2760;None;Male;Hobbits;Unnamed wife
+Hamfast of Gamwich;TA 2760;None;Male;Hobbit;Unnamed wife
 Halmir;YS 390;YS 471;Male;Men;Unnamed wife
 Hallatan;SA 711;FA 340;Male;Men;Unnamed wife
 Hallas (Steward);TA 2480;TA 2605;Male;Men;Unnamed wife
 Hallacar;SA 852;SA 1211;Male;Men;Tar-Ancalimë
 Haleth (Helm's son);TA 2493;Winter of TA 2758;Male;Men;None
 Haleth;FA 341;FA 420;Female;Men;None
-Haldir (Lorien);None;TA 3019;Male;Elves;None
+Haldir (Lorien);None;TA 3019;Male;Elf;None
 Haldir (Haladin);FA 413;FA 473;Male;Men;Gloredhel
 Halbarad;TA 2916;March 15 3019;Male;Men;None
 Hador;FA 390;FA 455;Male;Men;Gildis
 Garulf;TA 2520;February 28 TA 3019;Male;Men;None
 Hador (Steward);TA 2245;TA 2395;Male;Men;Unnamed wife
-Dain II IronFAot;TA 2767;March 17 3019;Male;Dwarves;Unnamed wife
-Dain I;TA 2440;TA 2589;Male;Dwarves;Unnamed wife
-Dwalin;TA 2772;FA 91;Male;Dwarves;None
-Durin's Bane;VY 0;January 253019;Male;MaiarBalrog;None
-Durin VII;FA 2;None;Male;Dwarves;None
+Dain II IronFAot;TA 2767;March 17 3019;Male;Dwarf;Unnamed wife
+Dain I;TA 2440;TA 2589;Male;Dwarf;Unnamed wife
+Dwalin;TA 2772;FA 91;Male;Dwarf;None
+Durin's Bane;VY 0;January 253019;Male;Balrog;None
+Durin VII;FA 2;None;Male;Dwarf;None
 Duinhir;TA 2850;FA 56;Male;Men;Unnamed wife
 Duilin;TA 3000;TA 3019;Male;Men;None
-Draugluin;None;FA 465;Male;Werewolves;None
+Draugluin;None;FA 465;Male;Werewolf;None
 Dorlas;YT 1400;FA 499;Males;Men;None
-Dori;TA 2827;None;Male;Dwarves;None
-Dodinas Brandybuck;None;None;Male;Hobbits;None
+Dori;TA 2827;None;Male;Dwarf;None
+Dodinas Brandybuck;None;None;Male;Hobbit;None
 Dior (Steward);TA 2328;TA 2435;Male;Men;Possibly none
-Dior;FA 470;FA 506 ;Male;Half-elven;Nimloth
-Dinodas Brandybuck;SR 1316;SR 1410;Male;Hobbits;None
-Diamond Took;TA 2995;FA 63;Female;Hobbits;Peregrin Took
+Dior;FA 470;FA 506;Male;Half-elven;Nimloth
+Dinodas Brandybuck;SR 1316;SR 1410;Male;Hobbit;None
+Diamond Took;TA 2995;FA 63;Female;Hobbit;Peregrin Took
 Dervorin;TA 3000;None;Male;Men;None
 Derufin;TA 3000;Mid March 3019;Male;Men;None
 Denethor II;TA 2930;March 15 3019;Male;Men;Finduilas
 Denethor I;TA 2375;TA 2477;Male;Men;Unnamed wife
-Denethor;YT 1070;YT 1497;Male;Elves;None
+Denethor;YT 1070;YT 1497;Male;Elf;None
 Damrod;TA 3000;TA 3019;Male;Men;None
 Dairuin;YT 1400;FA 460;Male;Men;None
-Daeron;YT 1300;None;Male;Elves;None
-Cirdan;YT 1050;Still alive.;Male;Elves;Presumably none
-Curufin;YT 1190;FA 506;Male;Elves;Unnamed wife
+Daeron;YT 1300;None;Male;Elf;None
+Cirdan;YT 1050;Still alive.;Male;Elf;Presumably none
+Curufin;YT 1190;FA 506;Male;Elf;Unnamed wife
 Zamîn;YS 50;YS 873;Female;Men;None
 Yavien;SA 371;None;Female;Men;None
 Yavanna;VY 0;Immortal;Female;Ainur;Aulë
 Wulf I;TA 2754;TA 2759;Male;Men;None
 Borlach;YT 1400;FA 473;Male;Men;None
-Borin;TA 2450;TA 2711;Male;Dwarven;None
-Bombur;TA 2834;None;Male;Dwarves;None
-Tom Bombadil;VY 1520;Unknown possibly immortal;Male;None;Goldberry
-Wilibald Bolger;TA 2904;TA 3000;Male;Hobbits;Prisca Baggins
+Borin;TA 2450;TA 2711;Male;Dwarf;None
+Bombur;TA 2834;None;Male;Dwarf;None
+Tom Bombadil;VY 1520;Unknown possibly immortal;Male;?;Goldberry
+Wilibald Bolger;TA 2904;TA 3000;Male;Hobbit;Prisca Baggins
 Rosamunda (Took) Bolger;TA 2938;None;Female;Men;Odovacar Bolger
-Odovacar Bolger;TA 2935;FA 10;Male;Hobbits;Rosamunda Took
-Jessamine (Boffin) Bolger;TA 2897;TA 3000;Female;Hobbits;Herugar Bolger
-Fredegar Bolger;TA 2980;FA 2;Male;Hobbits;unknown possibly unmarried
-Filibert Bolger;TA 2942;FA 22;Male;Hobbits;Poppy Chubb-Baggins
-Bolg;None;TA 2941;Male;GoblinOrc;None
-Bofur;TA 2843;None;Male;Dwarves;None
-Tosto Boffin;TA 2988;Early-FAurth Age;Male;Hobbits;None
-Rollo Boffin;TA 2860;None;Male;Hobbits;Lavender Grubb
-Otto Boffin;TA 2812;TA 2900;Male;Hobbits;Lavender Grubb
-Jago Boffin;TA 2894;TA 2986;Male;Hobbits;Unnamed wife
-Ivy (Goodenough) Boffin;SR 1135;SR 1198;Female;Hobbits;BufFA Boffin
-Hugo Boffin;TA 2854;TA 2945;Male;Hobbits;Donnamira Took
-GrifFA Boffin;TA 2946;None;Male;Hobbits;Daisy Baggins
-Gerda (Boffin) Bolger;TA 2904;TA 3004;Female;Hobbits;Adalbert Bolger
-FAlco Boffin;TA 2978;FA 2;Male;Hobbits;None
-Druda Burrows Boffin;TA 2860;None;Female;Hobbits;Rollo Boffin
-Daisy (Baggins) Boffin;TA 2950;None;Female;Hobbits;GrifFA Boffin
-Bosco Boffin;TA 2767;TA 2858;Male;Hobbits;Unnamed wife
-Basso Boffin;TA 2769;None;Male;Hobbits;None
-Donnamira (Took) Boffin;TA 2856;TA 2948;Female;Hobbits;Hugo Boffin
-Bob;TA 3000;FA 2;Male;Hobbits;None
-Blanco;TA 1560;TA 1601;Male;Hobbits;None
+Odovacar Bolger;TA 2935;FA 10;Male;Hobbit;Rosamunda Took
+Jessamine (Boffin) Bolger;TA 2897;TA 3000;Female;Hobbit;Herugar Bolger
+Fredegar Bolger;TA 2980;FA 2;Male;Hobbit;unknown possibly unmarried
+Filibert Bolger;TA 2942;FA 22;Male;Hobbit;Poppy Chubb-Baggins
+Bolg;None;TA 2941;Male;Orc;None
+Bofur;TA 2843;None;Male;Dwarf;None
+Tosto Boffin;TA 2988;Early-FAurth Age;Male;Hobbit;None
+Rollo Boffin;TA 2860;None;Male;Hobbit;Lavender Grubb
+Otto Boffin;TA 2812;TA 2900;Male;Hobbit;Lavender Grubb
+Jago Boffin;TA 2894;TA 2986;Male;Hobbit;Unnamed wife
+Ivy (Goodenough) Boffin;SR 1135;SR 1198;Female;Hobbit;BufFA Boffin
+Hugo Boffin;TA 2854;TA 2945;Male;Hobbit;Donnamira Took
+GrifFA Boffin;TA 2946;None;Male;Hobbit;Daisy Baggins
+Gerda (Boffin) Bolger;TA 2904;TA 3004;Female;Hobbit;Adalbert Bolger
+FAlco Boffin;TA 2978;FA 2;Male;Hobbit;None
+Druda Burrows Boffin;TA 2860;None;Female;Hobbit;Rollo Boffin
+Daisy (Baggins) Boffin;TA 2950;None;Female;Hobbit;GrifFA Boffin
+Bosco Boffin;TA 2767;TA 2858;Male;Hobbit;Unnamed wife
+Basso Boffin;TA 2769;None;Male;Hobbit;None
+Donnamira (Took) Boffin;TA 2856;TA 2948;Female;Hobbit;Hugo Boffin
+Bob;TA 3000;FA 2;Male;Hobbit;None
+Blanco;TA 1560;TA 1601;Male;Hobbit;None
 Bladorthin;None;TA 3000 ;Male;Men;None
 Black Serpent;TA 3000;TA 3019;Male;Men;None
-Bilbo Baggins;TA 2890;TA 3021;Male;Hobbits;None
-Bifur;TA 2814;UnknownFAurth Age;Male;Dwarves;None
+Bilbo Baggins;TA 2890;TA 3021;Male;Hobbit;None
+Bifur;TA 2814;UnknownFAurth Age;Male;Dwarf;None
 Beruthiel;TA 5;None;Female;Men;Tarannon Falastur
 Bergil;TA 3009;None;Male;Men;None
 Beren (Steward);TA 2655;TA 2763;Male;Men;Unnamed wife
 Beren;FA 432;FA 466;Male;Men;Luthien Tinuviel
 Berelach;FA 2;None;Male;Men;None
 Beren (Belemir's son);Mid YT 1300;None;Male;Men;Unnamed wife
-Nori;TA 2837;None;Male;Dwarves;None
+Nori;TA 2837;None;Male;Dwarf;None
 Nolondil;SA 222;SA 350;Male;Men;Unnamed wife
-Nob;TA 3000;None;Male;Hobbits;None
+Nob;TA 3000;None;Male;Hobbit;None
 Nienor;FA 473;FA 499;Female;Men;Turin Turambar
-Nina LightFAot;SR 1261;None;Female;Hobbits;Theobald Bolger
-Nimrodel;YT 25;TA 1981;Female;Elves;Loved Amroth
-Nimloth (elf);Unknown possibly sometime during the YT 3;FA 506;Female;Elves;Dior Eluchil
+Nina LightFAot;SR 1261;None;Female;Hobbit;Theobald Bolger
+Nimrodel;YT 25;TA 1981;Female;Elf;Loved Amroth
+Nimloth (Elves);Unknown possibly sometime during the YT 3;FA 506;Female;Elf;Dior Eluchil
 Nienna;VY 0;Immortal;Female;Ainur;None
 Nieliqui;None;Immortal;Female;Ainur;None
 Nessanië;SA 840;FA 340;Female;Men;None
 Nessa;VY 0;Immortal;Female;Ainur;Tulkas
-Nerdanel;YT 0;Still alive;Female;Elves;Fëanor
-Nellas;None;None;Female;Elves;None
-Naugladur;None;FA 503;Male;Dwarves;None
+Nerdanel;YT 0;Still alive;Female;Elf;Fëanor
+Nellas;None;None;Female;Elf;None
+Naugladur;None;FA 503;Male;Dwarf;None
 Narmacil II;TA 1684;TA 1856;Male;Men;Unnamed wife
 Narmacil I;TA 1049;TA 1294;Male;Men;Unknown possibly none as he had no children
-Nahar;None;None;None;Horse;None
-Mîm;SA 52;FA 502;Male;Dwarves;Unnamed wife
+Mîm;SA 52;FA 502;Male;Dwarf;Unnamed wife
 Muzgash;None;March 3019;Male;Orc;None
-Miriel;None;YT 1170;Female;Elves;Finwë
+Miriel;None;YT 1170;Female;Elf;Finwë
 Mouth of Sauron;SA 3000;March 25 TA 3019;Male;Men;None
-Morwë;VY 9;None;None;Elves;None
+Morwë;VY 9;None;None;Elf;None
 Morwen;FA 443;FA 500;Female;Men;Hurin Thalion
-Mithrellas;None;None;Female;Elves;Imrazôr
+Mithrellas;None;None;Female;Elf;Imrazôr
 Minardil;TA 1454;TA 1634;Male;Men;Unnamed wife
 Minohtar;TA 1500;July 13 1944;Male;Men;None
-Merimas Brandybuck;SR 1381;Early-FAurth Age;Male;Hobbits;None
-Meril-i-Turinqi;FA 550;Unknown presumably still alive;Female;Elves;None
-Meneldor;None;None;Male;Eagles;None
+Merimas Brandybuck;SR 1381;Early-FAurth Age;Male;Hobbit;None
+Meril-i-Turinqi;FA 550;Unknown presumably still alive;Female;Elf;None
+Meneldor;None;None;Male;Eagle;None
 Meneldil;SA 3318;TA 158;Male;Men;Unnamed wife
 Melkor;VY 0;Immortal;Male;Ainur;None
 Melian;VY 0;Did not die being a Maia returned to Valinor after the death of her husband Thingol;Female;Ainur;Thingol
 Meleth;Around FA 450 ;None;Female;Men;Agathor
 Mauhur;TA 3016;February 29 TA 3019;Male;Uruk-hai;none
 Master of Laketown;TA 2890;TA 2941;Male;Men;None
-Marroc Brandybuck;SR 1182;None;Male;Hobbits;Unnamed wife
-Marmadas Brandybuck;SR 1343;None;Male;Hobbits;Unnamed wife
+Marroc Brandybuck;SR 1182;None;Male;Hobbit;Unnamed wife
+Marmadas Brandybuck;SR 1343;None;Male;Hobbit;Unnamed wife
 Marhwini;TA 1821;TA 1893;Male;Men;Unnamed wife
 Marhari;TA 1500;TA 1856;Male;Men;Unnamed wife
-Marcho;TA 1557;Sometime after TA 1601;Male;Hobbits;None
+Marcho;TA 1557;Sometime after TA 1601;Male;Hobbit;None
 Mardil Voronwë;TA 1960;TA 2080;Male;Men;Unnamed wife
 Marach;FA 282;FA 376;Male;Men;Unnamed wife
 Manwë;VY 0;Immortal;Male;Ainur;Varda
@@ -369,83 +366,83 @@ Manwendil;After SA 61;SA 90;Male;Men;Possible unnamed wife
 Manthor;YS 469;TS 501;Male;Men;None
 Mandos;VY 0;None;Male;Ainur;Vairë
 Galmod;TA 2940;TA 3015;Male;Men;Unnamed wife
-Gwindor;FA 52;FA 495;Male;Elves;None betrothed to Finduilas
-Gwaihir;None;None;Male;Great Eagles;None
+Gwindor;FA 52;FA 495;Male;Elf;None betrothed to Finduilas
+Gwaihir;None;None;Male;Eagle;None
 Guthlaf;TA 3000;March 15 3019;Male;Men;None
 Gundor;FA 419;FA 456;Male;Men;None
-Guilin;None;None;Male;Elves;Unnamed wife
-Gror;TA 2563;TA 2805;Male;Dwarves;Unnamed wife
-Groin;TA 2671;TA 2923;Male;Dwarves;Unnamed wife
+Guilin;None;None;Male;Elf;Unnamed wife
+Gror;TA 2563;TA 2805;Male;Dwarf;Unnamed wife
+Groin;TA 2671;TA 2923;Male;Dwarf;Unnamed wife
 Grithnir;FA 400;FA 473;Male;Men;None
 Grishnakh;None;February 29 3019;Male;Orc;None
 Grimbold;TA 3000;March 15 3019;Male;Men;None
-Grimbeorn;Unknown probably several years or so after the Battle of Five Armies TA 2941;TA 3018;Male;MenSkin-changer;None
-Rose Greenhand;TA 2862;None;Female;Hobbits;Cotman Cotton
-Holman Greenhand;TA 2810;None;Male;Hobbits;None
-Hending Greenhand;TA 2859;None;Male;Hobbits;None
-Halfred Greenhand;TA 2851;None;Male;Hobbits;None
-Erling Greenhand;TA 2854;None;Male;Hobbits;None
-Great Goblin;None;July 2941;Male;Orcs;None
-Gorlim;YT 1400;FA 460;Male;MenWraith;Eilinel
+Grimbeorn;Unknown probably several years or so after the Battle of Five Armies TA 2941;TA 3018;Male;Skin-changer;None
+Rose Greenhand;TA 2862;None;Female;Hobbit;Cotman Cotton
+Holman Greenhand;TA 2810;None;Male;Hobbit;None
+Hending Greenhand;TA 2859;None;Male;Hobbit;None
+Halfred Greenhand;TA 2851;None;Male;Hobbit;None
+Erling Greenhand;TA 2854;None;Male;Hobbit;None
+Great Goblin;None;July 2941;Male;Orc;None
+Gorlim;YT 1400;FA 460;Male;Men;Eilinel
 Gram;TA 2668;TA 2741;Male;Men;Unnamed wife
 Gothmog (Lieutenant of Morgul);None;March 15 3019 (film);Male;Orc;None
-Gothmog;VY 0;FA 510;Male;MaiarBalrogs;None
-Gostir;None;None;Male;Dragons;None
-Gormadoc Deepdelver Brandybuck;SR 1134;SR 1236;Male;Hobbits;Malva Headstrong
-Gorhendad (Oldbuck) Brandybuck;TA 2274;None;Male;Hobbits;Unnamed wife
-Gorbulas Brandybuck;TA 2908;TA 3001;Male;Hobbits;Unnamed wife
-Gorbag;None;March 14 3019 slain by Shagrat;Male;Uruk-haiOrc;None
-Gollum;TA 2430;March 25 3019;Male;Hobbits;None
-Golfimbul;Unknown TA 2700;TA 2747;Male;OrcGoblin;None
-Hanna (Goldworthy) Brandybuck;None;None;Female;Hobbits;Madoc Brandybuck
+Gothmog;VY 0;FA 510;Male;Balrog;None
+Gostir;None;None;Male;Dragon;None
+Gormadoc Deepdelver Brandybuck;SR 1134;SR 1236;Male;Hobbit;Malva Headstrong
+Gorhendad (Oldbuck) Brandybuck;TA 2274;None;Male;Hobbit;Unnamed wife
+Gorbulas Brandybuck;TA 2908;TA 3001;Male;Hobbit;Unnamed wife
+Gorbag;None;March 14 3019 slain by Shagrat;Male;Uruk-hai;None
+Gollum;TA 2430;March 25 3019;Male;Hobbit;None
+Golfimbul;Unknown TA 2700;TA 2747;Male;Orc;None
+Hanna (Goldworthy) Brandybuck;None;None;Female;Hobbit;Madoc Brandybuck
 Goldwine;TA 2619;TA 2699;Male;Men;None
 Golasgil;TA 3000;None;Male;Men;None
 Harry Goatleaf;TA 3000;Presumably sometime after TA 3019;Male;Men;None
 Gloredhel;FA 415;FA 473;Female;Men;Haldir
-Gloin (King of Durin's FAlk);TA 2136;TA 2385;Male;Dwarves;Unnamed wife
-Gloin;TA 2783;FA 15;Male;Dwarves;Unnamed wife
+Gloin (King of Durin's FAlk);TA 2136;TA 2385;Male;Dwarf;Unnamed wife
+Gloin;TA 2783;FA 15;Male;Dwarf;Unnamed wife
 Gléowine;TA 3000;None;Male;Men;None
-Glorfindel;Possibly YT 10;FA 510;Male;Elves;None
+Glorfindel;Possibly YT 10;FA 510;Male;Elf;None
 Glirhuin;Unknown late fifth or sixth century YT 1300;None;Male;Men;None
-Glaurung;Presumably after Morgoth's return to Angband FA 2;FA 501;Male;Dragons;None
+Glaurung;Presumably after Morgoth's return to Angband FA 2;FA 501;Male;Dragon;None
 Girion;TA 2732;TA 2770;Male;Men;Unnamed wife
-Gimli;TA 2879;Unknown;Male;Dwarves;None
+Gimli;TA 2879;Unknown;Male;Dwarf;None
 Gimilzagar;SA 2630;None;Male;Men;None
 Gimilkhâd;SA 3044;SA 3243;Male;Men;Unnamed wife
 Gilraen;TA 2907;TA 3007;Female;Men;Arathorn II
 Gilmith;TA 2000;None;Female;Half-elven;None
-Gilfanon;None;Presumably still alive;Male;Elves;None
-Gildor Inglorion;None;Possible sailed West;Male;Elves;None
+Gilfanon;None;Presumably still alive;Male;Elf;None
+Gildor Inglorion;None;Possible sailed West;Male;Elf;None
 Gildor (Edain);YT 1400;FA 460;Male;Men;None
-Gil-galad;YS 455;SA 3441;Male;Elves;None
+Gil-galad;YS 455;SA 3441;Male;Elf;None
 Gildis;YT 1300;None;Female;Men;Hador Lorindol
-Ghân-buri-Ghân;TA 3000;None;Male;Druedain;None
-Gelmir (of Angrod's kin);None;None;Male;Elves;None
+Ghân-buri-Ghân;TA 3000;None;Male;Men;None
+Gelmir (of Angrod's kin);None;None;Male;Elf;None
 Gethron;Mid YT 1300;None;Male;Men;None
-Gelmir;None;FA 473;Male;Elves;None
-Tolman Cotton;TA 2941;FA 20;Male;Hobbits;Lily Brown
-Rosie Cotton;TA 2984;FA 61;Female;Hobbits;Sam Gamgee
-Marigold (Gamgee) Cotton;TA 2983;None;Female;Hobbits;Tolman Cotton
-Lily Cotton;TA 3000;None;Female;Hobbits;Farmer Cotton
-Bowman Cotton;TA 2886;None;Male;Hobbits;None
-Tolman Cotton Jr.;TA 2980;FA 60;Male;Hobbits;Marigold Cotton
+Gelmir;None;FA 473;Male;Elf;None
+Tolman Cotton;TA 2941;FA 20;Male;Hobbit;Lily Brown
+Rosie Cotton;TA 2984;FA 61;Female;Hobbit;Sam Gamgee
+Marigold (Gamgee) Cotton;TA 2983;None;Female;Hobbit;Tolman Cotton
+Lily Cotton;TA 3000;None;Female;Hobbit;Farmer Cotton
+Bowman Cotton;TA 2886;None;Male;Hobbit;None
+Tolman Cotton Jr.;TA 2980;FA 60;Male;Hobbit;Marigold Cotton
 Ciryon;SA 3379;TA 2;Male;Men;Unknown possibly known
 Ciryatur;YS 340;After SA 1700;Male;Men;None
 Ciryandil;TA 820;TA 1015;Male;Men;Unnamed wife
 Cirion;TA 2449;TA 2567;Male;Men;Unnamed wife
-Falco Chubb-Baggins;TA 2903;TA 2999;Male;Hobbits;Unnamed wife
+Falco Chubb-Baggins;TA 2903;TA 2999;Male;Hobbit;Unnamed wife
 Ceorl;TA 3000;None;Male;Men;None
 Cemendur (son of Axantur);SA 575;None;Male;Men;Unnamed wife
 Cemendur;SA 3399;TA 238;Male;Men;Unnamed wife
 Celepharn;TA 979;TA 1191;Male;Men;Unnamed wife
-Celegorm;YT 1190;FA 506;Male;Elves;None
-CelebRian;SA 350;Still alive Departed to Aman in TA 2510;Female;Elves;Elrond
+Celegorm;YT 1190;FA 506;Male;Elf;None
+CelebRian;SA 350;Still alive Departed to Aman in TA 2510;Female;Elf;Elrond
 Celebrindor;TA 1062;TA 1272;Male;Men;Unnamed wife
-Celebrimbor;YT 1495;SA 1697 War of the Elves and Sauron;Male;Elves;None
-Celeborn;YT 1335;Still alive departed over the sea in the FA 2;Male;Elves;Galadriel
+Celebrimbor;YT 1495;SA 1697 War of the Elves and Sauron;Male;Elf;None
+Celeborn;YT 1335;Still alive departed over the sea in the FA 2;Male;Elf;Galadriel
 Castamir the Usurper;TA 1259;TA 1447;Male;Men;Unnamed wife
-Carcharoth;VY 0;FA 466;Male;Werewolves;None
-Caranthir;YT 1190;FA 506;Male;Elves;Unnamed wife
+Carcharoth;VY 0;FA 466;Male;Werewolf;None
+Caranthir;YT 1190;FA 506;Male;Elf;Unnamed wife
 Calmacil;TA 1058;TA 1304;Male;Men;Unnamed wife
 Caliondo;SA 512;SA 900;Male;Men;Unnamed wife
 Calimehtar;TA 1736;TA 1936;Male;Men;Unnamed wife
@@ -454,12 +451,11 @@ Bëor;FA 262;FA 355;Male;Men;Unnamed wife
 Barliman Butterbur;TA 3000;FA 2;Male;Men;None
 Grima Wormtongue;TA 2974;November 3 TA 3019;Male;Men;None
 Witch-king of Angmar;SA 1500;March 15 TA 3019;Male;Men;None
-Wiseman Gamwich;TA 2800;None;Male;Hobbits;Unnamed wife
-Willie Banks;TA 3000;Early TA 3019;Male;Hobbits;None
-Watcher in the Water;None;Unknown possibly still alive;Most likely male;Uruloki;Most likely none
+Wiseman Gamwich;TA 2800;None;Male;Hobbit;Unnamed wife
+Willie Banks;TA 3000;Early TA 3019;Male;Hobbit;None
 Walda;TA 2780;TA 2851;Male;Men;Unnamed wife
 Vëantur;SA 451;SA 727;Male;Men;Unnamed wife
-Voronwë;FA 1;FA 525;Male;Elves;None known
+Voronwë;FA 1;FA 525;Male;Elf;None known
 Vorondil;TA 1919;TA 2029;Male;Men;Unnamed wife
 Vidumavi;TA 1255;TA 1344;Female;Men;Valacar
 Vidugavia;TA 1400;None;Male;Men;Unnamed wife
@@ -470,46 +466,46 @@ Valandur;TA 462;TA 652;Male;Men;Unnamed wife
 Valandil of Andunië;SA 50;SA 160;Male;Men;None
 Valandil;SA 3430;TA 249;Male;Men;Unnamed wife
 Valacar;TA 1194;TA 1432;Male;Men;Vidumavi
-Vairë (Elf);YT 1200;None;Female;Elves;Lindo
+Vairë (Elves);YT 1200;None;Female;Elf;Lindo
 Vairë;VY 0;Immortal;Female;Ainur;Mandos
 Urthel;YT 1400;FA 460;Male;Men;None
-Ungoliant;None;Possibly end of YT 1300;Female;Great Spiders;None
+Ungoliant;None;Possibly end of YT 1300;Female;Spider;None
 Ulwarth;FA 430;FA 472;Male;Men;None
 Ulmo;VY 0;Immortal;Male;Ainur;None
 Ulfast;FA 428;FA 472;Male;Men;None
 Ulfang;FA 400;FA 470;Male;Men;Unnamed wife
 Uldor;FA 425;FA 472;Male;Men;None
 Ulbar;SA 50;FA 340 ;Male;Men;Unnamed wife
-Uinen;VY 0;Immortal;Female;None;Ossë
+Uinen;VY 0;Immortal;Female;Maiar;Ossë
 Ugluk;TA 3019;February 293019;Male;Uruk-hai;None
 Ufthak;None;3019;Male;Orc;None
 Turin II;TA 2815;TA 2914;Male;Men;Unnamed wife
 Turin I;TA 2165;TA 2278;Male;Men;Unnamed wife
 Turin;FA 464;FA 499;Male;Men;Nienor
 Turgon (Steward);TA 2855;TA 2953;Male;Men;Unnamed wife
-Turgon;YT 1300;FA 510;Male;Elves;Elenwë
+Turgon;YT 1300;FA 510;Male;Elf;Elenwë
 Turambar;TA 397;TA 667;Male;Men;Unnamed wife
 Tuor;FA 472;None sailed into the West and was accounted amongst the Eldar;Male;Men;Idril Celebrindal
-Tulkastor;YT 20;None;Male;Elves;Unnamed wife
+Tulkastor;YT 20;None;Male;Elf;Unnamed wife
 Tulkas;VY 0;Immortal;Male;Ainur;Nessa
-Treebeard;YT 35;None;Male;EntsOnodrim;Fimbrethil
-Sigismond Took;TA 2890;TA 2981;Male;Hobbits;Unnamed wife
-Rosa (Baggins) Took;SR 1256;None;Female;Hobbits;Hildigrim Took
+Treebeard;YT 35;None;Male;Ent;Fimbrethil
+Sigismond Took;TA 2890;TA 2981;Male;Hobbit;Unnamed wife
+Rosa (Baggins) Took;SR 1256;None;Female;Hobbit;Hildigrim Took
 Beregond (Captain);TA 2976;FA 5;Male;Men;Unnamed wife
 Beregond;TA 2700;TA 2811;Male;Men;Unnamed wife
 Bereg;FA 340;None;Male;Men;None
-Beorn;None;the War of the Ring;Male;Skin-changer;None
+Beorn;None;TA 3019;Male;Skin-changer;None
 Belen;FA 292;None;Male;Men;Unnamed wife
 Belemir;FA 339;None;Male;Men;Adanel
 Belegund;YT 1400;FA 460;Male;Men;Unnamed wife
 Belegorn;TA 2074;TA 2204;Male;Men;Unnamed wife
 Beleg of Arnor;TA 811;TA 1029;Male;Men;Unnamed wife
-Beleg;None;FA 489;Male;Elves;None
+Beleg;None;FA 489;Male;Elf;None
 Belecthor II;TA 2752;TA 2872;Male;Men;Unnamed wife
 Belecthor I;TA 2545;TA 2655;Male;Men;Unnamed wife
 Beldis;FA 411;None;Female;Men;Handir
 Beldir;FA 316;None;Male;Men;Unnamed wife
-Beechbone;None;March 3 3019;Male;Ents;None
+Beechbone;None;March 3 3019;Male;Ent;None
 Bard II;TA 2985;FA 2;Male;Men;None
 Bard;TA 2898;TA 2977;Male;Men;Unnamed wife
 Baranor;FA 317;None;Male;Men;Unnamed wife
@@ -517,28 +513,28 @@ Baran;FA 289;FA 380;Male;Men;Unnamed wife
 Barahir (Steward);TA 2290;TA 2412;Male;Men;Unnamed wife
 Barahir;FA 402;FA 460;Male;Men;Emeldir
 Baragund;FA 420;FA 460;Male;Men;Unnamed wife
-Balin;TA 2763;TA 2994;Male;Dwarves;None
+Balin;TA 2763;TA 2994;Male;Dwarf;None
 Bain;TA 2925;TA 3007;Male;Men;Unnamed wife
-Porto Baggins;TA 2948;None;Male;Hobbits;None
-Ponto Baggins II;TA 2946;None;Male;Hobbits;Unnamed wife
-Ponto Baggins;TA 2816;TA 2911;Male;Hobbits;Mimosa Bunce
-Peony (Baggins) Burrows;TA 2950;None;Female;Hobbits;Milo Burrows
+Porto Baggins;TA 2948;None;Male;Hobbit;None
+Ponto Baggins II;TA 2946;None;Male;Hobbit;Unnamed wife
+Ponto Baggins;TA 2816;TA 2911;Male;Hobbit;Mimosa Bunce
+Peony (Baggins) Burrows;TA 2950;None;Female;Hobbit;Milo Burrows
 Malvegil;TA 1144;TA 1349;Male;Men;Unnamed wife
-Malva Headstrong Brandybuck;None;None;Female;Hobbits;Gormadoc Brandybuck
+Malva Headstrong Brandybuck;None;None;Female;Hobbit;Gormadoc Brandybuck
 Mallor;TA 895;TA 1110;Male;Men;Unnamed wife
 Malbeth;TA 2000;TA 2100;Male;Men;Unknown possible none
 Malach;FA 307;FA 398;Male;Men;Meldis
 Mairen;SA 377;None;Female;Men;None
-Mahtan;None;Still alive;Male;Elves;Unnamed wife
+Mahtan;None;Still alive;Male;Elf;Unnamed wife
 Magor;FA 341;None;Male;Men;None
-Maglor;YT 1190;FA 587;Male;Elves;Unnamed wife
-Farmer Maggot;TA 2948;None;Male;Hobbits;Unnamed wife
-Maeglin;FA 320;FA 510;Male;Elves;None
-Maedhros;YT 1190;FA 587;Male;Elves;None
+Maglor;YT 1190;FA 587;Male;Elf;Unnamed wife
+Farmer Maggot;TA 2948;None;Male;Hobbit;Unnamed wife
+Maeglin;FA 320;FA 510;Male;Elf;None
+Maedhros;YT 1190;FA 587;Male;Elf;None
 Mablung the Ranger;TA 3000;None;Male;Men;None
-Mablung;None;FA 502;Male;Elves;None
-Luthien;YT 1200;FA 503;Female;Elves;Beren Erchamion
-Loni;TA 2600;TA 2994;Male;Dwarves;None
+Mablung;None;FA 502;Male;Elf;None
+Luthien;YT 1200;FA 503;Female;Elf;Beren Erchamion
+Loni;TA 2600;TA 2994;Male;Dwarf;None
 Brytta Léofa;TA 2752;TA 2842;Male;Men;Unnamed wife
 Léod;TA 2459;TA 2501;Male;Men;Unnamed wife
 Lungorthin;VY 5;FA 510;Male;Balrog;None
@@ -547,144 +543,142 @@ Lothiriel;TA 2999;None;Female;Men;omer
 Lorgan;YS 20;YS 250 ;Male;Men;None
 Lindorië;SA 2800;SA 3000;Female;Men;Unknown husband
 Lindissë;SA 551;None;Female;Men;None
-Lindir;None;Possibly departed to Aman;Male;Elves;None
-Letter;SR 1313;Between SR 1401-1418;None;None;Lilah Took
-Lenwë;YT 1090;None;Male;Elves;Unnamed wife
-Legolas (elf of Gondolin);None;None;Male;Elves;None
-Legolas;None;Still alive departed to Aman FA 120;Male;Elves;None
+Lindir;None;Possibly departed to Aman;Male;Elf;None
+Lenwë;YT 1090;None;Male;Elf;Unnamed wife
+Legolas (Elves of Gondolin);None;None;Male;Elf;None
+Legolas;None;Still alive departed to Aman FA 120;Male;Elf;None
 Larnach;YT 1400;None;Male;Men;Unnamed wife
 Landroval;YT 1300;Possibly still alive;Male;Eagle;None
 Lalaith;FA 466;FA 469;Female;Men;None
-Elanor Gardner;March TA 3021;FA 2;Female;Hobbits;Fastred of Greenholm
-Gandalf;VY 3500;January TA 3021 Battle of the Peak immortal;Male;Maiar;None
+Elanor Gardner;March TA 3021;FA 2;Female;Hobbit;Fastred of Greenholm
+Gandalf;VY 3500;January TA 3021;Male;Maiar;None
 Gamling;TA 3000;None;Male;Men;None
-Samwise Gamgee;April 6 TA 2980;FA 61;Male;Hobbits;Rosie Cotton
-May Gamgee;TA 2976;None;Female;Hobbits;None
-Hamson Gamgee;TA 2965;None;Male;Hobbits;None
-Hamfast Gamgee;SR 1326;SR 1428;Male;Hobbits;Bell Goodchild
-Halfred Gamgee;TA 2969;None;Male;Hobbits;None
-Frodo Gardner;SR 1423;SR 1531;Male;Hobbits;Unnamed wife
-Daisy Gamgee I;TA 2972;FA 54;Female;Hobbits;None
-Galion;None;None;Male;Elves;None
-Galdor of the Tree;None;None;Male;Elves;None
-Galdor of the Havens;None;None;Male;Elves;None
+Samwise Gamgee;April 6 TA 2980;FA 61;Male;Hobbit;Rosie Cotton
+May Gamgee;TA 2976;None;Female;Hobbit;None
+Hamson Gamgee;TA 2965;None;Male;Hobbit;None
+Hamfast Gamgee;SR 1326;SR 1428;Male;Hobbit;Bell Goodchild
+Halfred Gamgee;TA 2969;None;Male;Hobbit;None
+Frodo Gardner;SR 1423;SR 1531;Male;Hobbit;Unnamed wife
+Daisy Gamgee I;TA 2972;FA 54;Female;Hobbit;None
+Galion;None;None;Male;Elf;None
+Galdor of the Tree;None;None;Male;Elf;None
+Galdor of the Havens;None;None;Male;Elf;None
 Galdor;FA 417;FA 462;Male;Men;Hareth
-Galadriel;YT 1362;Still alive: Departed over the sea on September 29 3021;Female;Elves;Celeborn
-Galathil;None;None;Male;Elves;Unnamed Wife
+Galadriel;YT 1362;Still alive: Departed over the sea on September 29 3021;Female;Elf;Celeborn
+Galathil;None;None;Male;Elf;Unnamed Wife
 Galador;TA 2004;TA 2129;Male;Half-elven;Unnamed wife
 Firiel;TA 1896;None;Female;Men;Arvedui
-Fili and Kili;TA 2859;November 23TA 2941;Male;Dwarves;None
-Fëanor;YT 1169;YT 1497;Male;Elves;Nerdanel
-Fundin;TA 2662;TA 2799;Male;Dwarves;Unnamed wife
+Fili and Kili;TA 2859;November 23TA 2941;Male;Dwarf;None
+Fëanor;YT 1169;YT 1497;Male;Elf;Nerdanel
+Fundin;TA 2662;TA 2799;Male;Dwarf;Unnamed wife
 Fuinur;SA 3000;None;Male;Men;None
-Fror;TA 2552;TA 2589;Male;Dwarves;None
+Fror;TA 2552;TA 2589;Male;Dwarf;None
 Fréawine;TA 2594;TA 2680;Male;Men;None
 Fréalaf Hildeson;TA 2726;TA 2798;Male;Men;Unnamed wife
 Fréa;TA 2570;TA 2659;Male;Men;Unnamed wife
 Fror;TA 3000;November 102994;Male;Dwarf;None
 Frumgar;TA 1940;TA 2001;Male;Men;Unnamed wife
-Frerin;TA 2751;TA 2799;Male;Dwarves;None
+Frerin;TA 2751;TA 2799;Male;Dwarf;None
 Freca;TA 2698;TA 2754;Male;Men;Unnamed wife
 Fram;TA 1967;After TA 2000;Male;Men;Unknown probably as he had descendants
 FArweg;FA 320;FA 485;Male;Men;Unknown probably none
-FArtinbras Took I;TA 2745;TA 2848;Male;Hobbits;Unnamed wife
+FArtinbras Took I;TA 2745;TA 2848;Male;Hobbit;Unnamed wife
 FArthwini;TA 1500;TA 1944;Male;Men;Unknown but possible since he had descendants
 FArlong;TA 3000;TA 3019;Male;Men;unknown
 FAlcwine;TA 2830;TA 2903;Male;Men;Unnamed wife
 FAlcred;TA 2858;TA 2885;Male;Men;None
 FAlca;TA 2804;TA 2864;Male;Men;Unnamed wife
-Floi;TA 2989;TA 2994;Male;Dwarves;None
-Minto Burrows;TA 2996;None;Male;Hobbits;None
-Milo Burrows;SR 1347;None;Male;Hobbits;Peony Baggins
-Bucca of the Marish;TA 1930;TA 2031;Male;Hobbits;None
-Sapphira (Brockhouse) Boffin;TA 2857;None;Female;Hobbits;UfFA Boffin
+Floi;TA 2989;TA 2994;Male;Dwarf;None
+Minto Burrows;TA 2996;None;Male;Hobbit;None
+Milo Burrows;SR 1347;None;Male;Hobbit;Peony Baggins
+Bucca of the Marish;TA 1930;TA 2031;Male;Hobbit;None
+Sapphira (Brockhouse) Boffin;TA 2857;None;Female;Hobbit;UfFA Boffin
 Bregor;Mid FA 359;FA 448;Male;Men;Unnamed wife
-Asphodel (Brandybuck) Burrows;TA 2913;TA 3012;Female;Hobbits;Rufus Burrows
+Asphodel (Brandybuck) Burrows;TA 2913;TA 3012;Female;Hobbit;Rufus Burrows
 Bregolas;YT 1400;FA 455;Male;Men;Unnamed wife
 Brego;TA 2512;TA 2570;Male;Men;Unnamed wife
-Bregalad;TA 2519;None;Male;Ents;None
-Primula (Brandybuck) Baggins;TA 2920;TA 2980;Female;Hobbits;Drogo Baggins
-Mirabella (Took) Brandybuck;TA 2860;TA 2960;Female;Hobbits;Gorbadoc Brandybuck
-Seredic Brandybuck;TA 2948;None;Male;Hobbits;Hilda Bracegirdle
-Meriadoc Brandybuck;TA 2982;FA 65;Male;Hobbits;Estella (Bolger) Brandybuck
-Mentha Brandybuck;TA 2983;Early-FAurth Age;Female;Hobbits;None
-Melilot Brandybuck;SR 1385;None;Female;Hobbits;None
-Madoc Brandybuck;SR 1175;SR 1277;Male;Hobbits;Hanna Goldworthy
-Estella (Bolger) Brandybuck;TA 2985;FA 63;Female;Hobbits;Meriadoc Brandybuck
-Hilda Brandybuck;TA 2954;None;Female;Hobbits;Seredic Brandybuck
-Esmeralda Brandybuck;TA 2936;None;Female;Hobbits;Saradoc Brandybuck
-Celandine Brandybuck;TA 2994;None;Female;Hobbits;None
-Amaranth Brandybuck;TA 2904;TA 2998;Female;Hobbits;None
-Adaldrida (Bolger) Brandybuck;TA 2818;None;Female;Hobbits;Marmadoc Brandybuck
+Bregalad;TA 2519;None;Male;Ent;None
+Primula (Brandybuck) Baggins;TA 2920;TA 2980;Female;Hobbit;Drogo Baggins
+Mirabella (Took) Brandybuck;TA 2860;TA 2960;Female;Hobbit;Gorbadoc Brandybuck
+Seredic Brandybuck;TA 2948;None;Male;Hobbit;Hilda Bracegirdle
+Meriadoc Brandybuck;TA 2982;FA 65;Male;Hobbit;Estella (Bolger) Brandybuck
+Mentha Brandybuck;TA 2983;Early-FAurth Age;Female;Hobbit;None
+Melilot Brandybuck;SR 1385;None;Female;Hobbit;None
+Madoc Brandybuck;SR 1175;SR 1277;Male;Hobbit;Hanna Goldworthy
+Estella (Bolger) Brandybuck;TA 2985;FA 63;Female;Hobbit;Meriadoc Brandybuck
+Hilda Brandybuck;TA 2954;None;Female;Hobbit;Seredic Brandybuck
+Esmeralda Brandybuck;TA 2936;None;Female;Hobbit;Saradoc Brandybuck
+Celandine Brandybuck;TA 2994;None;Female;Hobbit;None
+Amaranth Brandybuck;TA 2904;TA 2998;Female;Hobbit;None
+Adaldrida (Bolger) Brandybuck;TA 2818;None;Female;Hobbit;Marmadoc Brandybuck
 Brandir;FA 465;FA 499;None;Men;None
 Brand;TA 2957;March 17 3019;Male;Men;Unnamed wife
-Primrose Bracegirdle;TA 2865;None;Female;Hobbits;Blanco Bracegirdle
-Bruno Bracegirdle;TA 2913;TA 3010;Male;Hobbits;Unnamed wife
-Blanco Bracegirdle;TA 2865;None;Male;Hobbits;Primrose Boffin
+Primrose Bracegirdle;TA 2865;None;Female;Hobbit;Blanco Bracegirdle
+Bruno Bracegirdle;TA 2913;TA 3010;Male;Hobbit;Unnamed wife
+Blanco Bracegirdle;TA 2865;None;Male;Hobbit;Primrose Boffin
 Borthand;YT 1400;FA 473;Male;Men;None
 Borondir;TA 2490;April 15 TA 2510;Male;Men;None
 Boron;FA 315;FA 408;Male;Men;Unnamed wife
 Boromir (Steward);TA 2410;TA 2489;Male;Men;Unnamed wife
 Boromir (House of Bëor);FA 338;FA 432;Male;Men;Unnamed wife
-Peregrin Took;TA 2990;FA 65;Male;Hobbits;Diamond of Long Cleeve
-Pearl Took;TA 2975;FA 63;Female;Hobbits;None
-Paladin Took II;TA 2933;FA 13;Male;Hobbits;Eglantine Banks
-Isembard Took;TA 2847;TA 2946;Male;Hobbits;None
-Hildigrim Took;SR 1240;SR 1341;Male;Hobbits;Rosa Baggins
-HildiFAns Took;TA 2844;None;Male;Hobbits;None
-Hildibrand Took;TA 2849;TA 2934;Male;Hobbits;None
-Gerontius Took;TA 2790;TA 2920;Male;Hobbits;Adamanta Chubb
-Ferumbras III Took;TA 2916;TA 3015;Male;Hobbits;None
-Adelard Took;TA 2928;FA 2;Male;Hobbits;Unnamed wife
-Adamanta (Chubb) Took;TA 2817;TA 2923;Female;Hobbits;Gerontius The Old Took
-Adalgrim Took;TA 2880;TA 2982;Male;Hobbits;Unnamed wife
-Bandobras Took;TA 2701;TA 2800;Male;Hobbits;Unnamed wife
-Isumbras Took III;TA 2666;TA 2759;Male;Hobbits;Unnamed wife
-Isengrim Took II;TA 2620;TA 2722;Male;Hobbits;Unnamed wife
-FArtinbras Took II;TA 2878;TA 2980;Male;Hobbits;Lalia Clayhanger
-Isumbras Took I;TA 2295;TA 2398;Male;Hobbits;None
-Faramir Took I;SR 1430;SR 1484;Male;Hobbits;Goldilocks Gardner
+Peregrin Took;TA 2990;FA 65;Male;Hobbit;Diamond of Long Cleeve
+Pearl Took;TA 2975;FA 63;Female;Hobbit;None
+Paladin Took II;TA 2933;FA 13;Male;Hobbit;Eglantine Banks
+Isembard Took;TA 2847;TA 2946;Male;Hobbit;None
+Hildigrim Took;SR 1240;SR 1341;Male;Hobbit;Rosa Baggins
+HildiFAns Took;TA 2844;None;Male;Hobbit;None
+Hildibrand Took;TA 2849;TA 2934;Male;Hobbit;None
+Gerontius Took;TA 2790;TA 2920;Male;Hobbit;Adamanta Chubb
+Ferumbras III Took;TA 2916;TA 3015;Male;Hobbit;None
+Adelard Took;TA 2928;FA 2;Male;Hobbit;Unnamed wife
+Adamanta (Chubb) Took;TA 2817;TA 2923;Female;Hobbit;Gerontius The Old Took
+Adalgrim Took;TA 2880;TA 2982;Male;Hobbit;Unnamed wife
+Bandobras Took;TA 2701;TA 2800;Male;Hobbit;Unnamed wife
+Isumbras Took III;TA 2666;TA 2759;Male;Hobbit;Unnamed wife
+Isengrim Took II;TA 2620;TA 2722;Male;Hobbit;Unnamed wife
+FArtinbras Took II;TA 2878;TA 2980;Male;Hobbit;Lalia Clayhanger
+Isumbras Took I;TA 2295;TA 2398;Male;Hobbit;None
+Faramir Took I;SR 1430;SR 1484;Male;Hobbit;Goldilocks Gardner
 Tom, Bert and William;TA 1;None;Male;Stone-trolls;None
 Tindomiel;SA 61;SA 130;Female;Men;None
 Tilion;VY 0;Immortal;Male;Ainur;None
 Théodred;TA 2978;TA 3019;Male;Men;None
-Théoden;TA 2948;TA 3019;Male;Men;Elfhild
-Thuringwethil;None;FA 465;Female;Vampire;None
-Thror;TA 2542;TA 2790;Male;Dwarves;Unnamed wife
-Thrain II;TA 2644;TA 2850;Male;Dwarves;Unnamed wife
-Thranduil;YT 1300;Presumably departed to Aman;Male;Elves;Unnamed wife
-Thorondor;VY 0;Immortal;Male;Great Eagles;None
-Thrain I;TA 1934;TA 2190;Male;Dwarves;Unnamed wife
+Théoden;TA 2948;TA 3019;Male;Men;Elveshild
+Thror;TA 2542;TA 2790;Male;Dwarf;Unnamed wife
+Thrain II;TA 2644;TA 2850;Male;Dwarf;Unnamed wife
+Thranduil;YT 1300;Presumably departed to Aman;Male;Elf;Unnamed wife
+Thorondor;VY 0;Immortal;Male;Eagle;None
+Thrain I;TA 1934;TA 2190;Male;Dwarf;Unnamed wife
 Thorondir;TA 2782;TA 2882;Male;Men;Unnamed wife
-Thorin III Stonehelm;TA 2866;FA 137;Male;Dwarves;None
-Thorin II Oakenshield;TA 2746;TA 2941;Male;Dwarves;None
-Thorin I;TA 2035;TA 2289;Male;Dwarves;Unnamed wife
-Thingol;YT 1050;FA 502;Male;Elves;Melian
+Thorin III Stonehelm;TA 2866;FA 137;Male;Dwarf;None
+Thorin II Oakenshield;TA 2746;TA 2941;Male;Dwarf;None
+Thorin I;TA 2035;TA 2289;Male;Dwarf;Unnamed wife
+Thingol;YT 1050;FA 502;Male;Elf;Melian
 Thengel;TA 2905;TA 2980;Male;Men;Morwen Steelsheen
 The King of the Dead;SA 3000;TA 3019;Male;Men;None
 Telemnar;TA 1516;TA 1636;Male;Men;Unnamed wife
-Telchar;YT 1300;YS 10;Male;Dwarves;None
-Tatië;YT 1;None;Female;Elves;Tata
+Telchar;YT 1300;YS 10;Male;Dwarf;None
+Tatië;YT 1;None;Female;Elf;Tata
 Telumehtar;TA 1632;TA 1850;Male;Men;Unnamed wife
-Tata;YT 1;None;Male;Elves;Tatië
+Tata;YT 1;None;Male;Elf;Tatië
 Tarondor of Arnor;TA 372;TA 602;Male;Men;Unnamed wife
 Targon;TA 3000;None;Male;Men;None
-Longo Baggins;TA 2860;TA 2950;Male;Hobbits;Camellia (Sackville) Baggins
-Laura (Grubb) Baggins;TA 2814;TA 2916;Female;Hobbits;Mungo Baggins
+Longo Baggins;TA 2860;TA 2950;Male;Hobbit;Camellia (Sackville) Baggins
+Laura (Grubb) Baggins;TA 2814;TA 2916;Female;Hobbit;Mungo Baggins
 Tarondor;TA 1577;TA 1798;Male;Men;Unnamed wife
 Tarciryan;TA 654;TA 913;Male;Men;Unnamed wife
-Mungo Baggins;TA 2807;TA 2900;Male;Hobbits;Laura Grubb
-Frodo Baggins;TA 2968;Unknown;Male;Hobbits;None
-FAsco Baggins;TA 2864;TA 2960;male;Hobbits;Ruby Bolger
-Dudo Baggins;TA 2911;TA 3009;Male;Hobbits;Unnamed wife
-Drogo Baggins;TA 2908;TA 2980;Male;Hobbits;Primula Brandybuck
-Bungo Baggins;TA 2846;TA 2926;Male;Hobbits;None
-Berylla (Boffin) Baggins;TA 2772;TA 2871;Female;Hobbits;Balbo Baggins
-Belladonna (Took) Baggins;TA 2852;TA 2934;Female;Hobbits;Bungo Baggins
-Balbo Baggins;TA 2767;TA 2858;Male;Hobbits;Berylla (Boffin) Baggins
-Angelica Baggins;TA 2981;FA 5;Female;Hobbits;None
-Azog;None;TA 2799;Male;Orcs;None
-Azaghâl;FA 214;FA 473;Male;Dwarves;None
+Mungo Baggins;TA 2807;TA 2900;Male;Hobbit;Laura Grubb
+Frodo Baggins;TA 2968;Unknown;Male;Hobbit;None
+FAsco Baggins;TA 2864;TA 2960;male;Hobbit;Ruby Bolger
+Dudo Baggins;TA 2911;TA 3009;Male;Hobbit;Unnamed wife
+Drogo Baggins;TA 2908;TA 2980;Male;Hobbit;Primula Brandybuck
+Bungo Baggins;TA 2846;TA 2926;Male;Hobbit;None
+Berylla (Boffin) Baggins;TA 2772;TA 2871;Female;Hobbit;Balbo Baggins
+Belladonna (Took) Baggins;TA 2852;TA 2934;Female;Hobbit;Bungo Baggins
+Balbo Baggins;TA 2767;TA 2858;Male;Hobbit;Berylla (Boffin) Baggins
+Angelica Baggins;TA 2981;FA 5;Female;Hobbit;None
+Azog;None;TA 2799;Male;Orc;None
+Azaghâl;FA 214;FA 473;Male;Dwarf;None
 Axantur;SA 395;None;Male;Men;Unnamed wife
 Aulë;VY 0;Immortal;Male;Ainur;Yavanna
 Aulendil (Vardamir's son);SA 213;SA 250;Male;Men;Unnamed wife
@@ -697,13 +691,13 @@ Arveleg I;TA 1309;TA 1409;Male;Men;Unnamed wife
 Arvegil;TA 1553;TA 1743;Male;Men;Unnamed wife
 Arvedui;TA 1864;TA 1975;Male;Men;Firiel
 Arthad;YT 1400;FA 460;Male;Men;None
-Arminas;None;None;Male;Elves;None
+Arminas;None;None;Male;Elf;None
 Arien;VY 0;Immortal;Female;Ainur;None
 Argonui;TA 2757;TA 2912;Male;Men;Unnamed wife
-Argon;YT 6;YT 1500;Male;Elves;None
+Argon;YT 6;YT 1500;Male;Elf;None
 Argeleb II;TA 1473;TA 1670;Male;Men;Unnamed wife
 Argeleb I;TA 1226;TA 1356;Male;Men;Unnamed wife
-Aredhel;YT 1362;FA 400;Female;Elves;Eöl
+Aredhel;YT 1362;FA 400;Female;Elf;Eöl
 Ardamir (son of Axantur);SA 562;None;Male;Men;None
 Arciryas;TA 1684;None;Male;Men;Unnamed wife
 Aravorn;TA 2497;TA 2654;Male;Men;Unnamed wife
@@ -716,7 +710,7 @@ Arassuil;TA 2628;TA 2784;Male;Men;Unnamed wife
 Araphor;TA 1391;TA 1589;Male;Men;Unnamed wife
 Arantar;TA 185;TA 435;Male;Men;Unnamed wife
 Araphant;TA 1789;TA 1964;Male;Men;Unnamed wife
-Aranwë;None;None;Male;Elves;Unnamed wife
+Aranwë;None;None;Male;Elf;Unnamed wife
 Aranuir;TA 2084;TA 2247;Male;Men;Unnamed wife
 Aranarth;TA 1938;TA 2106;Male;Men;Unnamed wife
 Arahael;TA 2012;TA 2177;Male;Men;Unnamed wife
@@ -730,17 +724,17 @@ Arador;TA 2820;TA 2930;Male;Men;Unnamed wife
 Ar-Zimrathôn;SA 2798;SA 3033;Male;Men;Unnamed wife
 Androg;FA 440;FA 489;Male;Men;Unnamed wife
 Andreth;FA 361;FA 455;Female;Men;Loved Aegnor but they never married
-Ancalagon;VY 0;FA 587;Male;Dragons;None
+Ancalagon;VY 0;FA 587;Male;Dragon;None
 Anborn;TA 3000;None;Male;Men;None
 Anardil;TA 136;TA 411;Male;Men;Unnamed wife
-Anairë;YT 30;None;Female;Elves;Fingolfin
+Anairë;YT 30;None;Female;Elf;Fingolfin
 Amrothos;TA 2994;None;Male;Men;None
-Amroth;None;TA 1981;Male;Elves;Nimrodel
-Amrod;YT 6;YT 1497;Male;Elves;None
+Amroth;None;TA 1981;Male;Elf;Nimrodel
+Amrod;YT 6;YT 1497;Male;Elf;None
 Amras;YT 2;FA 538;Male;Elf;None
 Amlaith;TA 726;TA 946;Male;Men;Unnamed wife
-Amdir;YT 1300;SA 3434;Male;Elves;Unnamed wife
-Amarië;YT 28;Still alive;Female;Elves;Loved Finrod but it is unknown whether they married
+Amdir;YT 1300;SA 3434;Male;Elf;Unnamed wife
+Amarië;YT 28;Still alive;Female;Elf;Loved Finrod but it is unknown whether they married
 Amandil;SA 3000;SA 3310;Male;Men;Unnamed wife
 Alphros;TA 3017;FA 95;Male;Men;None
 Almiel;SA 729;None;Female;Men;None
@@ -749,9 +743,8 @@ Almarian;None;None;Female;Men;Tar-Meneldur
 Algund;YT 1400;FA 489;Male;Men;None known
 Aldor;TA 2544;TA 2645;Male;Men;Unnamed wife
 Aldamir;TA 1330;TA 1540;Male;Men;Unnamed wife
-Alatar;VY 0;None;Male;AinurMaiar;None
 Aglahad;TA 2827;TA 2932;Male;Men;Unnamed wife
 Aerin;YT 1300;FA 495;Female;Men;Brodda
-Aegnor;YT 1300;FA 455;Male;Elves;Loved Andreth but remained unmarried
+Aegnor;YT 1300;FA 455;Male;Elf;Loved Andreth but remained unmarried
 Adrahil II;TA 2917;TA 3010;Male;Men;Unnamed wife
 Adrahil I;TA 1944;TA 3000;Male;Men;None

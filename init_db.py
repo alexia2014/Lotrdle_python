@@ -60,6 +60,16 @@ def check_date_personne():
             death = compare_date(row['death'])
             if (birth != 0 and death != 0 and birth >= death):
                 print("ERROR: " + row['name'] + ": " + str(birth) + " to " + str(death))
+
+def check_personne():
+    races = ["Men", "Hobbit", "Elf", "Dwarf", "Orc", "Uruk-hai", "Dragon", "Ainur", "Maiar", "Nazgûl", "God", "Half-elven", "Eagle", "Balrog", "Skin-changer", "Spider", "Ent", "Stone-trolls", "Werewolf"]
+    with open("personnes.csv", newline='', encoding="utf-8-sig") as csvfile:
+        reader = csv.DictReader(csvfile, delimiter=';')
+        for row in reader:
+            race = row['race']
+            if (race not in races):
+                print("ERROR: " + row['name'] + ": " + race)
+
 def delete_all_base(engine):
     meta = MetaData()
     meta.reflect(bind=engine)
@@ -75,6 +85,7 @@ def main():
     Base.metadata.create_all(bind=engine)
     session = SessionLocal()
     check_date_personne()
+    check_personne()
     inserer_donnees_csv_map(session)
     inserer_donnees_csv_pers(session)
     inserer_donnees_csv_script(session)
