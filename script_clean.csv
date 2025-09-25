@@ -176,22 +176,12 @@ ARMY;DEATH!;The Return of the King
 ARWEN;May the grace of the Valar protect you;The Two Towers
 ARWEN;I have made my choice.;The Two Towers
 ARWEN;There is still hope.;The Two Towers
-ARWEN;Gerich veleth n?n, ada.;The Two Towers
 ARWEN;Then it is a good dreamSleep.;The Two Towers
-ARWEN; i vethed... n, i onnad. Boe bedich go Frodo. Han b?d l?n.;The Two Towers
-ARWEN;Si peliannen i v?d na dail l?n. Si boe, -dhannathach.;The Two Towers
-ARWEN;Ae, -esteliach nad... estelio han. Estelio ammen.;The Two Towers
-ARWEN;Nach gwannatha sin?;The Two Towers
-ARWEN;Ma nathach hi gwannathach or minuial archened?;The Two Towers
-ARWEN; Estelio guru l?n ne dagor. Ethelithach.;The Two Towers
-ARWEN; O man pedich?;The Two Towers
 ARWEN;Why are you saying this?;The Two Towers
 ARWEN;I don't believe you;The Two Towers
 ARWEN;It was a gift. Keep it.;The Two Towers
 ARWEN;Why do you fear the past. You are Isildur's heir, not Isildur himself. You are not bound to his fate;The Fellowship of the Ring
-ARWEN; Your time will come. You will face the same evil and you will defeat it A si i-Dh?ath, -orthor, Aragorn.,or le a,or nin.;The Fellowship of the Ring
-ARWEN;Renech i lu i erui govannen? (,);The Fellowship of the Ring
-ARWEN;Gwenwin in enninath...U-arnech in naeth i si celich. (,) Renech i beth i pennen?;The Fellowship of the Ring
+ARWEN; Your time will come. You will face the same evil and you will defeat it;The Fellowship of the Ring
 ARWEN;and to that I hold. I would rather share one lifetime with you than face all the ages of this world alone;The Fellowship of the Ring
 ARWEN;I choose a mortal life;The Fellowship of the Ring
 ARWEN;It is mine to give to whom I will. Like my heart;The Fellowship of the Ring
@@ -252,7 +242,7 @@ BILBO;Tea or maybe something a little stronger? I've got a few bottles of the Ol
 BILBO;It was laid down by my father, what say we open one eh?;The Fellowship of the Ring
 BILBO;I was expecting you sometime last week. Not that it matters you come and go as you please. Always have done and always will.;The Fellowship of the Ring
 BILBO; I'm not at home! it's the Sackville-Bagginses.;The Fellowship of the Ring
-BILBO;they're after the house! They?ve never forgiven me for living this long. I've got to get away from these confounded relatives hanging on the bell all day, never giving me a moment?s peace I want to see mountains again, mountains Gandalf And then find somewhere quiet where I can finish my book. Oh, tea;The Fellowship of the Ring
+BILBO;they're after the house! They?ve never forgiven me for living this long. I've got to get away from these confounded relatives hanging on the bell all day, never giving me a moment's peace I want to see mountains again, mountains Gandalf And then find somewhere quiet where I can finish my book. Oh, tea;The Fellowship of the Ring
 BILBO;Yes, yes, it's all in hand. All the arrangements are made Oh, thank you.;The Fellowship of the Ring
 BILBO;Of course he does, He's a Baggins, not some blockheaded Bracegirdle from Hardbottle;The Fellowship of the Ring
 BILBO;Yes, yes.;The Fellowship of the Ring
@@ -317,7 +307,7 @@ DENETHOR;Faramir! Say not that he has fallen;The Return of the King
 DENETHOR; The house of Stewards has failed;The Return of the King
 DENETHOR;My line has ended!;The Return of the King
 DENETHOR;Rohan has deserted us!;The Return of the King
-DENETHOR;Theoden?s betrayed me! ABANDON YOUR POSTS!FLEE! FLEE FOR YOUR LIVES!;The Return of the King
+DENETHOR;Theoden's betrayed me! ABANDON YOUR POSTS!FLEE! FLEE FOR YOUR LIVES!;The Return of the King
 DENETHOR;I will not yield the River and Pellenor unfought. Osgiliath must be retaken.;The Return of the King
 DENETHOR;Much must be risked in war. Is there a Captain here who still has the courage to do his lord's will?;The Return of the King
 DENETHOR;Can you sing Master Hobbit?;The Return of the King
@@ -355,7 +345,7 @@ DENETHOR; Boromir was loyal to me! Not some wizard's pupil.;The Return of the Ki
 DENETHOR;And I shall not forget it nor fail to reward that which is given., Fealty with love. Valour with honour. Disloyalty with vengeance.,I do not think we should so lightly abandon the outer defences. Defences that your brother long held intact.;The Return of the King
 DENETHOR;That will depend on the manner of your return.;The Return of the King
 ELROND;I Aear cun ven na mar;The Return of the King
-ELROND;I come on behalf of one whom I love. Arwen is dying. She will not long survive the evil that now spreads from Mordor. The light of the evenstar is failing. As Sauron's power grows her strength wanes. Arwen?s life is now tied to the fate of the Ring. The Shadow is upon us Aragorn. The end has come.;The Return of the King
+ELROND;I come on behalf of one whom I love. Arwen is dying. She will not long survive the evil that now spreads from Mordor. The light of the evenstar is failing. As Sauron's power grows her strength wanes. Arwen's life is now tied to the fate of the Ring. The Shadow is upon us Aragorn. The end has come.;The Return of the King
 ELROND;ArwenTollen i l?. I chair gwannar na Valannor. Si bado, no c?rar.;The Two Towers
 ELROND;He is not coming back. Why do you linger here when there is no hope?;The Two Towers
 ELROND;If Aragorn survives this war, you will still be parted.f Sauron is defeated and Aragorn made king.and all that you hope for comes true.you will still have to taste the bitterness of mortality.;The Two Towers
@@ -549,7 +539,7 @@ FRODO;Gimli!;The Return of the King
 FRODO;How do you pick up the threads of an old life? How do you go on, when in your heart you begin to understand there is no going back? There are some things that time cannot mend. Some hurts that go too deep, that have taken hold.;The Return of the King
 FRODO;it's been four years to the day since Weathertop Sam. it's never really healed;The Return of the King
 FRODO;Not quite. There's room for a little more;The Return of the King
-FRODO;Bilbo once told me his part in this tale would end. That each of us must come and go in the telling. Bilbo?s story was now over. There would be no more journeys for him save one;The Return of the King
+FRODO;Bilbo once told me his part in this tale would end. That each of us must come and go in the telling. Bilbo's story was now over. There would be no more journeys for him save one;The Return of the King
 FRODO;To the harbour Bilbo. The elves have accorded you a special honour. A place on the last ship to leave Middle Earth;The Return of the King
 FRODO;t's so heavy;The Return of the King
 FRODO; Hit me!Hit me Sam!Start fighting;The Return of the King
@@ -558,7 +548,7 @@ FRODO;There will be none left for the return journey.;The Return of the King
 FRODO;No Sam. I can't recall the taste of food, nor the sound of water or the touch of grass. I'm naked in the dark. There's, There's nothing, no veil between me and the wheel of fireI can see him with my waking eyes!;The Return of the King
 FRODO;The Ring is mine!;The Return of the King
 FRODO;it's gone it's done.;The Return of the King
-FRODO;I can see the Shire. The Brandywine River. Bag End. Gandalf?s fireworks. The lights on the party tree.;The Return of the King
+FRODO;I can see the Shire. The Brandywine River. Bag End. Gandalf's fireworks. The lights on the party tree.;The Return of the King
 FRODO;I'm glad to be with you Samwise Gamgee here at the end of all things. They hug.;The Return of the King
 FRODO;Sam;The Return of the King
 FRODO;Oh Sam, I'm so sorry.Sorry for everything.;The Return of the King
@@ -786,7 +776,7 @@ GALADRIEL;It was in this moment, that Isildur, son of the King, took up his fath
 GALADRIEL;Sauron, the enemy of the Free Peoples of Middle Earth was defeated The Ring passed to Isildur., Who had this one chance to destroy evil forever But the hearts of Men are easily corrupted., And the Ring of Power has a will of its own;The Fellowship of the Ring
 GALADRIEL;It betrayed Isildurto his deathAnd some things that should not have been forgotten were lost.,History became legend, legend became myth,and for two and a half thousand years the Ring passed out of all knowledge Until, when chance came, It ensnared a new bearer;The Fellowship of the Ring
 GALADRIEL;The Ring came to the creature Gollum who took it deep into the tunnels of the Misty Mountains And there it consumed him.;The Fellowship of the Ring
-GALADRIEL;The Ring brought to Gollum unnatural long life. For five hundred years it poisoned his mind. And in the gloom of Gollum?s cave it waited Darkness crept back into the forests of the world. Rumour grew of a shadow in the East, whispers of a nameless fear And the Ring of Power perceived Its time had now come It abandoned Gollum., But something happened then that the Ring did not intend, it was picked up by the most unlikely creature imaginable;The Fellowship of the Ring
+GALADRIEL;The Ring brought to Gollum unnatural long life. For five hundred years it poisoned his mind. And in the gloom of Gollum's cave it waited Darkness crept back into the forests of the world. Rumour grew of a shadow in the East, whispers of a nameless fear And the Ring of Power perceived Its time had now come It abandoned Gollum., But something happened then that the Ring did not intend, it was picked up by the most unlikely creature imaginable;The Fellowship of the Ring
 GALADRIEL;A Hobbit. Bilbo Baggins of the Shire.,;The Fellowship of the Ring
 GALADRIEL;Frodo! Frodo;The Fellowship of the Ring
 GALADRIEL;Your coming to us is as the footsteps of doom. You bring great evil here!Ringbearer;The Fellowship of the Ring
@@ -874,7 +864,7 @@ GANDALF;HmmmYou would not part an old man from his walking stick.;The Two Towers
 GANDALF;The courtesy of your hall is somewhat lessened of late.Theoden King.;The Two Towers
 GANDALF;Be silent. Keep your forked tongue behind your teeth. I have not passed through fire and death.to bandy crooked words with a witless worm;The Two Towers
 GANDALF;This will be the end of Gondor as we know it. Here the hammer stroke will fall hardest. If the river is taken, if the garrison at Osgiliath falls, the last defence of this city will be gone;The Return of the King
-GANDALF;Sauron has yet to show his deadliest servant.,,The one who will lead Mordor?s army in war. The one they say no living man can kill., The Witch King of Angmar. you've met him before.He stabbed Frodo on Weathertop He is the lord of the Nazgl. The greatest of the nine.;The Return of the King
+GANDALF;Sauron has yet to show his deadliest servant.,,The one who will lead Mordor's army in war. The one they say no living man can kill., The Witch King of Angmar. you've met him before.He stabbed Frodo on Weathertop He is the lord of the Nazgl. The greatest of the nine.;The Return of the King
 GANDALF;and the Ring ? You feel its power growing don't you. I've felt it too. You must be careful now. Evil will be drawn to you from outside the Fellowship and I fear from within;The Fellowship of the Ring
 GANDALF;You must trust to yourself. Trust your own strength;The Fellowship of the Ring
 GANDALF;There are many powers in this world for good or for evil. Some are greater than I am and against some I have not yet been tested;The Fellowship of the Ring
@@ -916,7 +906,7 @@ GANDALF; Hold out your hand Frodo. Its quite cool. What can you see ?, Can you s
 GANDALF;There are few who can. The language is that of Mordor, which I will not utter here;The Fellowship of the Ring
 GANDALF;We have just passed into the realm of Gondor.;The Return of the King
 GANDALF;Yes the white tree of Gondor. The tree of the King. Lord Denethor however, is not the King. He is a steward only, a caretaker of the throne.;The Return of the King
-GANDALF;Now listen carefully. Lord Denethor is Boromir?s father. To give him news of his beloved son?s death would be most unwise. And do not mention Frodo or the Ring. And say nothing of Aragorn either. In fact, its better if you don't speak at all Peregrin Took;The Return of the King
+GANDALF;Now listen carefully. Lord Denethor is Boromir's father. To give him news of his beloved son's death would be most unwise. And do not mention Frodo or the Ring. And say nothing of Aragorn either. In fact, its better if you don't speak at all Peregrin Took;The Return of the King
 GANDALF;Hail Denethor son of Ecthelion, Lord and Steward of Gondor.;The Return of the King
 GANDALF;Hmm hmm hmm hmm, Down from the door where it began, hmm hmm hmm hmm;The Fellowship of the Ring
 GANDALF;And I must follow if I can The road goes ever on and on, down from the door where it began, now far ahead the road has gone, and I must follow if I can.;The Fellowship of the Ring
@@ -935,7 +925,7 @@ GANDALF;Authority is not given to you to deny the return of the King, steward.;T
 GANDALF;Come;The Return of the King
 GANDALF;All had turned to vain ambition. He would use even his grief as a cloak! A thousand years this city has stood and now at the whim of a madman it will fall! And the white tree, the tree of the King will never bloom again.;The Return of the King
 GANDALF;A wizard is never late! Frodo Baggins., Nor is he early, he arrives precisely when he means to.;The Fellowship of the Ring
-GANDALF;You didn't think Id miss your Uncle Bilbo?s birthday?;The Fellowship of the Ring
+GANDALF;You didn't think Id miss your Uncle Bilbo's birthday?;The Fellowship of the Ring
 GANDALF;Well that should please him;The Fellowship of the Ring
 GANDALF;What?;The Fellowship of the Ring
 GANDALF;Into the Mines;The Fellowship of the Ring
@@ -978,7 +968,7 @@ GANDALF;Minas Tirith? Is that what you saw?;The Return of the King
 GANDALF;He's very fond of you.;The Fellowship of the Ring
 GANDALF;And what did you tell him? Speak;The Return of the King
 GANDALF;What did you tell him about Frodo and the Ring?;The Return of the King
-GANDALF;There was no lie in Pippin?s eyes. A fool but an honest fool he remains.;The Return of the King
+GANDALF;There was no lie in Pippin's eyes. A fool but an honest fool he remains.;The Return of the King
 GANDALF;He told Sauron nothing of Frodo and the RingWe?ve been strangely fortunate. Pippin saw in the Palantir a glimpse of the enemy's plan. Sauron moves to strike the city of Minas Tirith.;The Return of the King
 GANDALF;No!;The Return of the King
 GANDALF;They will be You must come to Minas Tirith by another road. Follow the river. Look to the black ships Understand this, things are now in motion that cannot be undone. I ride for Minas Tirith and I wont be going alone.;The Return of the King
@@ -1015,7 +1005,7 @@ GANDALF; Faramir! Faramir Your father's will has turned to madness. Do not throw
 GANDALF;Courage is the best defence that you have now.;The Return of the King
 GANDALF;Amon D?n.;The Return of the King
 GANDALF;Thank you.;The Return of the King
-GANDALF;There never was much hope. Just a fool?s hope. Our enemy is ready. His full strength?s gathered. Not only orcs, but men as well, Legions of Haradrim from the South, mercenaries from the coast All will answer Mordor?s call.;The Return of the King
+GANDALF;There never was much hope. Just a fool's hope. Our enemy is ready. His full strength's gathered. Not only orcs, but men as well, Legions of Haradrim from the South, mercenaries from the coast All will answer Mordor's call.;The Return of the King
 GANDALF;The board is set, the pieces are moving.;The Return of the King
 GANDALF;Hope is kindled!;The Return of the King
 GANDALF;So how is the old rascal? I hear it is going to be a party of special significance?;The Fellowship of the Ring
@@ -1205,7 +1195,7 @@ GOLLUM;Good Smeagol always helps.;The Two Towers
 GOLLUM;See? See? We've led you out. Hurry, Hobbitses. Hurry! Very lucky we find you. Nice Hobbit.;The Two Towers
 GOLLUM;A swamp, yes, yes. Come, master. We will take you! on safe paths through the mist. Come, Hobbits! Come! We go quicklyI found it. I did. The way through the marshes. Orcs don't use it. Orcs don't know it. They go around for miles and miles. Come quickly. Soft and quick as shadows we must be.;The Two Towers
 GOLLUM;No, no birdses to eat. No crunchable birdses. We are famished! Yes! Famished we are, precious!;The Two Towers
-GOLLUM;What does it eats?s it tasty?It tries to chokes us! We can't eats Hobbit food! We must starve;The Two Towers
+GOLLUM;What does it eats's it tasty?It tries to chokes us! We can't eats Hobbit food! We must starve;The Two Towers
 GOLLUM;Oh, cruel Hobbit.t does not care if we be hungry. Does not care if we should dieNot like master. Master cares. Master knows. Yes. Precious. Once it takes hold of us.it never lets go.;The Two Towers
 GOLLUM;All dead. All rotten. Elves and Men and Orcses. A great battle long ago. Dead Marshes. Yes. Yes, that is their name. This way. Don't follow the lights.;The Two Towers
 GOLLUM;Careful now! Or Hobbits go down to join the dead ones.and light little candles of their own.;The Two Towers
@@ -1260,7 +1250,7 @@ GOLLUM;No, not very nice at all, my love. She hungers for sweeter meats., Hobbit
 GOLLUM;Never! Smeagol wouldn?t hurt a fly! Aaaagh he is a horrid, fat Hobbit who hates Smeagol and who makes up nasty lies;The Return of the King
 GOLLUM;Sneaking.;The Return of the King
 GOLLUM;Smeagol? No, no, not poor Smeagol. Smeagol hates nasty elf bread.;The Return of the King
-GOLLUM;Look, What's this? Crumbs on his jacketses. He took itHe took it! I've seen him, He's always stuffing his face when master?s not looking.;The Return of the King
+GOLLUM;Look, What's this? Crumbs on his jacketses. He took itHe took it! I've seen him, He's always stuffing his face when master's not looking.;The Return of the King
 GOLLUM;See? See? He wants it for himself.;The Return of the King
 GOLLUM;Why does he hates poor Smeagol? What has Smeagol ever done to him? Master?Master carries a heavy burden Smeagol knows, heavy heavy burden. Fat one cannot know. He wants it. He needs it. Smeagol sees it in his eye. Very soon he will ask you for it. You will see. The fat one will take it from you;The Return of the King
 GOLLUM;Come on, Hobbits! Mustn?t stop now. This way!;The Return of the King
@@ -1549,7 +1539,7 @@ MOUTH OF SAURON; Is there any in this rout with authority to treat with me?;The 
 MOUTH OF SAURON; And who is this?Isildur's heir?It takes more to make a King than a broken Elvish blade.;The Return of the King
 PIPPIN;Hmm?;The Return of the King
 PIPPIN;I didn't think it would end this way.;The Return of the King
-PIPPIN;What?Gandalf?See what?;The Return of the King
+PIPPIN;What?Gandalf'see what?;The Return of the King
 PIPPIN;Where are they?;The Return of the King
 PIPPIN;Frodo;The Return of the King
 PIPPIN;Merry!;The Return of the King
@@ -1675,7 +1665,7 @@ PIPPIN;My lord;The Return of the King
 PIPPIN; well, yes. At least well enough for my own people. But we have no songs for great halls and evil times.;The Return of the King
 PIPPIN;He's not dead. He's NOT DEAD NO! NO! He's not dead;The Return of the King
 PIPPIN;NO! NO!;The Return of the King
-PIPPIN;Gandalf! Where?s Gandalf? GANDALF;The Return of the King
+PIPPIN;Gandalf! Where's Gandalf? GANDALF;The Return of the King
 PIPPIN;The mightiest man may be slain by one arrow and Boromir was pierced by many.;The Return of the King
 PIPPIN;A storm is coming.;The Return of the King
 PIPPIN;Well, Minas Tirith, very impressiveSo where are off to next?;The Return of the King
@@ -1725,7 +1715,7 @@ SAM;Mr Frodo, lookThere is light and beauty up there that no shadow can touch;Th
 SAM;Take mineThere's a few drops left.;The Return of the King
 SAM;Frodo, get down!Hide;The Return of the King
 SAM;Frodo;The Return of the King
-SAM;it's gone Mr Frodo. The light?s passed on, away towards the North. Something?s drawn its gaze.;The Return of the King
+SAM;it's gone Mr Frodo. The light's passed on, away towards the North. Something's drawn its gaze.;The Return of the King
 SAM;Do you remember the Shire Mr Frodo? It will be Spring soon and the orchards will be in blossom. And the birds will be nesting in the hazel thickets. (He is crying.) And they will be sowing the summer barley in the lower fields, (Frodo opens his eyes and looks at him.) and eating the first of the strawberries and cream. Do you remember the taste of strawberries?;The Return of the King
 SAM;Look Mr Frodo, a doorway! We're almost there!;The Return of the King
 SAM;Frodo!;The Return of the King
@@ -1905,7 +1895,7 @@ SAM;So there's no hard feelings. Forgive and forget.;The Two Towers
 SAM;Yes you will. Of course you will. That's just morbid thinking. We're going there and back again just like Mr Bilbo. You'll see.;The Return of the King
 SAM;Mr Frodo, look! The King has got a crown again.;The Return of the King
 SAM;No;The Return of the King
-SAM;Hey, What's in this tunnel? You listen to me! You listen good and proper. Anything happens to him, You'll have me to answer to. One sniff that something?s not right, one hair that stands up on the back of my neck, its over. No more slinker, no more stinker. you're gone. Got it? I'm watching you.;The Return of the King
+SAM;Hey, What's in this tunnel? You listen to me! You listen good and proper. Anything happens to him, You'll have me to answer to. One sniff that something's not right, one hair that stands up on the back of my neck, its over. No more slinker, no more stinker. you're gone. Got it? I'm watching you.;The Return of the King
 SAM; But He's a liar! He's poisoned you against me.;The Return of the King
 SAM;Frodo!;The Fellowship of the Ring
 SAM;Frodo;The Fellowship of the Ring
