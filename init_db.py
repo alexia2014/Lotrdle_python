@@ -40,7 +40,7 @@ def inserer_donnees_csv_pers(session):
     session.close()
 
 def inserer_donnees_csv_script(session):
-    with open("script.csv", newline='') as csvfile:
+    with open("script_clean.csv", newline='') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=';')
         for row in reader:
             pers = Script(

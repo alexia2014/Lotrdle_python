@@ -291,7 +291,7 @@ Fredegar Bolger;TA 2980;FA 2;Male;Hobbit;unknown possibly unmarried
 Filibert Bolger;TA 2942;FA 22;Male;Hobbit;Poppy Chubb-Baggins
 Bolg;None;TA 2941;Male;Orc;None
 Bofur;TA 2843;None;Male;Dwarf;None
-Tosto Boffin;TA 2988;Early-FAurth Age;Male;Hobbit;None
+Tosto Boffin;TA 2988;FA 25;Male;Hobbit;None
 Rollo Boffin;TA 2860;None;Male;Hobbit;Lavender Grubb
 Otto Boffin;TA 2812;TA 2900;Male;Hobbit;Lavender Grubb
 Jago Boffin;TA 2894;TA 2986;Male;Hobbit;Unnamed wife
@@ -599,7 +599,7 @@ Primula (Brandybuck) Baggins;TA 2920;TA 2980;Female;Hobbit;Drogo Baggins
 Mirabella (Took) Brandybuck;TA 2860;TA 2960;Female;Hobbit;Gorbadoc Brandybuck
 Seredic Brandybuck;TA 2948;None;Male;Hobbit;Hilda Bracegirdle
 Meriadoc Brandybuck;TA 2982;FA 65;Male;Hobbit;Estella (Bolger) Brandybuck
-Mentha Brandybuck;TA 2983;Early-FAurth Age;Female;Hobbit;None
+Mentha Brandybuck;TA 2983;FA 3;Female;Hobbit;None
 Melilot Brandybuck;SR 1385;None;Female;Hobbit;None
 Madoc Brandybuck;SR 1175;SR 1277;Male;Hobbit;Hanna Goldworthy
 Estella (Bolger) Brandybuck;TA 2985;FA 63;Female;Hobbit;Meriadoc Brandybuck
@@ -665,7 +665,7 @@ Laura (Grubb) Baggins;TA 2814;TA 2916;Female;Hobbit;Mungo Baggins
 Tarondor;TA 1577;TA 1798;Male;Men;Unnamed wife
 Tarciryan;TA 654;TA 913;Male;Men;Unnamed wife
 Mungo Baggins;TA 2807;TA 2900;Male;Hobbit;Laura Grubb
-Frodo Baggins;TA 2968;Unknown;Male;Hobbit;None
+Frodo Baggins;TA 2968;TA 3021;Male;Hobbit;None
 Fosco Baggins;TA 2864;TA 2960;male;Hobbit;Ruby Bolger
 Dudo Baggins;TA 2911;TA 3009;Male;Hobbit;Unnamed wife
 Drogo Baggins;TA 2908;TA 2980;Male;Hobbit;Primula Brandybuck
