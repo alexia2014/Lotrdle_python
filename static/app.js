@@ -89,13 +89,12 @@ async function FetchAndAnswer(guess, resultDiv, sigle_guess, script) {
         resultDiv.innerHTML = "<span style='color:#3af821;'>BRAVO !</span>";
         guessInput.disabled = true;
         document.getElementById("share").disabled = false;
-        if (script == "script")
-          console.log(guess)
-          console.log(guess.length)
+        if (script == "script") {
           if (guess.length == 1)
             searchYouTubeVideo(result.verse + " " + guess[0] + " " + result.movie);
           else
             searchYouTubeVideo(result.verse + " " + guess[guess.length-2] + " " + result.movie);
+        }
       }
       foundText = result.found == 1 ? "trouve" : "non trouve";
       if (sigle_guess)

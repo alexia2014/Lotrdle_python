@@ -91,8 +91,8 @@ Rog;None;YS 510;Male;Elf;None
 Ragnor;YS 3;YS 460;Male;Men;None
 Radhruin;YT 1400;YS 460;Male;Men;None
 Radagast;VY 0;None;Male;Maiar;None
-Odo ProudFAot;TA 2904;TA 3005;Male;Hobbit;Mrs. ProudFAot
-Mrs. ProudFAot;TA 3000;None;Female;Hobbit;Odo ProudFAot
+Odo Proudfoot;TA 2904;TA 3005;Male;Hobbit;Mrs. Proudfoot
+Mrs. Proudfoot;TA 3000;None;Female;Hobbit;Odo Proudfoot
 Khîm;None;YS 486;Male;Dwarf;None
 Khamûl;SA 268;None;Male;Nazgûl;None
 Ivriniel;TA 2947;None;Female;Men;None
@@ -182,7 +182,7 @@ Eglantine (Banks) Took;YT 351;YT 460;Female;Hobbit;Paladin Took II
 Egalmoth (Elves);None;YS 538;Male;Elf;Unknown possibly none
 Egalmoth;TA 2626;TA 2743;Male;Men;Unnamed wife
 Edrahil;None;YS 465;Male;Elf;None
-Ecthelion of the FAuntain;None;YS 510;Male;Elf;None
+Ecthelion of the fountain;None;YS 510;Male;Elf;None
 Ecthelion II;TA 2886;TA 2984;Male;Men;Unnamed wife
 Ecthelion I;TA 2600;TA 2698;Male;Men;Possibly none
 Dunhere;TA 3000;March 15 3019;Male;Men;None
@@ -217,7 +217,7 @@ Nar;TA 2500;TA 3000;Male;Dwarf;None
 Nali;TA 2758;TA 2994;Male;Dwarf;None
 Nain II;TA 2338;TA 2585;Male;Dwarf;Unnamed wife
 Nain I;TA 1832;TA 1981;Male;Dwarf;Unnamed wife
-Nain (father of Dain II IronFAot);TA 2665;TA 2799;Male;Dwarf;Unnamed wife
+Nain (father of Dain II Ironfoot);TA 2665;TA 2799;Male;Dwarf;Unnamed wife
 Hob Hayward;TA 3000;None;Male;Hobbit;None
 Hob Gammidge;TA 2846;None;Male;Hobbit;Rowan
 Hirluin;TA 3000;March 15 3019;Male;Men;None
@@ -250,7 +250,7 @@ Halbarad;TA 2916;March 15 3019;Male;Men;None
 Hador;YS 390;YS 455;Male;Men;Gildis
 Garulf;TA 2520;February 28 TA 3019;Male;Men;None
 Hador (Steward);TA 2245;TA 2395;Male;Men;Unnamed wife
-Dain II IronFAot;TA 2767;March 17 3019;Male;Dwarf;Unnamed wife
+Dain II Ironfoot;TA 2767;March 17 3019;Male;Dwarf;Unnamed wife
 Dain I;TA 2440;TA 2589;Male;Dwarf;Unnamed wife
 Dwalin;TA 2772;FA 91;Male;Dwarf;None
 Durin's Bane;VY 0;January 253019;Male;Balrog;None
@@ -299,7 +299,7 @@ Ivy (Goodenough) Boffin;SR 1135;SR 1198;Female;Hobbit;Buffo Boffin
 Hugo Boffin;TA 2854;TA 2945;Male;Hobbit;Donnamira Took
 Griffo Boffin;TA 2946;None;Male;Hobbit;Daisy Baggins
 Gerda (Boffin) Bolger;TA 2904;TA 3004;Female;Hobbit;Adalbert Bolger
-FAlco Boffin;TA 2978;FA 2;Male;Hobbit;None
+Folco Boffin;TA 2978;FA 2;Male;Hobbit;None
 Druda Burrows Boffin;TA 2860;None;Female;Hobbit;Rollo Boffin
 Daisy (Baggins) Boffin;TA 2950;None;Female;Hobbit;Griffo Boffin
 Bosco Boffin;TA 2767;TA 2858;Male;Hobbit;Unnamed wife
@@ -310,7 +310,7 @@ Blanco;TA 1560;TA 1601;Male;Hobbit;None
 Bladorthin;None;TA 3000 ;Male;Men;None
 Black Serpent;TA 3000;TA 3019;Male;Men;None
 Bilbo Baggins;TA 2890;TA 3021;Male;Hobbit;None
-Bifur;TA 2814;UnknownFAurth Age;Male;Dwarf;None
+Bifur;TA 2814;Unknown;Male;Dwarf;None
 Beruthiel;TA 5;None;Female;Men;Tarannon Falastur
 Bergil;TA 3009;None;Male;Men;None
 Beren (Steward);TA 2655;TA 2763;Male;Men;Unnamed wife
@@ -321,7 +321,7 @@ Nori;TA 2837;None;Male;Dwarf;None
 Nolondil;SA 222;SA 350;Male;Men;Unnamed wife
 Nob;TA 3000;None;Male;Hobbit;None
 Nienor;YS 473;YS 499;Female;Men;Turin Turambar
-Nina LightFAot;SR 1261;None;Female;Hobbit;Theobald Bolger
+Nina Lightfoot;SR 1261;None;Female;Hobbit;Theobald Bolger
 Nimrodel;YT 25;TA 1981;Female;Elf;Loved Amroth
 Nimloth (Elves);Unknown possibly sometime during the YT 3;YS 506;Female;Elf;Dior Eluchil
 Nienna;VY 0;Immortal;Female;Ainur;None
@@ -342,7 +342,7 @@ Morwen;YS 443;YS 500;Female;Men;Hurin Thalion
 Mithrellas;None;None;Female;Elf;Imrazôr
 Minardil;TA 1454;TA 1634;Male;Men;Unnamed wife
 Minohtar;TA 1500;July 13 1944;Male;Men;None
-Merimas Brandybuck;SR 1381;Early-FAurth Age;Male;Hobbit;None
+Merimas Brandybuck;SR 1381;FA 5;Male;Hobbit;None
 Meril-i-Turinqi;YS 550;Unknown presumably still alive;Female;Elf;None
 Meneldor;None;None;Male;Eagle;None
 Meneldil;SA 3318;TA 158;Male;Men;Unnamed wife
@@ -396,7 +396,7 @@ Goldwine;TA 2619;TA 2699;Male;Men;None
 Golasgil;TA 3000;None;Male;Men;None
 Harry Goatleaf;TA 3000;Presumably sometime after TA 3019;Male;Men;None
 Gloredhel;YS 415;YS 473;Female;Men;Haldir
-Gloin (King of Durin's FAlk);TA 2136;TA 2385;Male;Dwarf;Unnamed wife
+Gloin (King of Durin's Folk);TA 2136;TA 2385;Male;Dwarf;Unnamed wife
 Gloin;TA 2783;FA 15;Male;Dwarf;Unnamed wife
 Gléowine;TA 3000;None;Male;Men;None
 Glorfindel;YT 10;YS 510;Male;Elf;None
@@ -579,12 +579,12 @@ Frerin;TA 2751;TA 2799;Male;Dwarf;None
 Freca;TA 2698;TA 2754;Male;Men;Unnamed wife
 Fram;TA 1967;After TA 2000;Male;Men;Unknown probably as he had descendants
 Forweg;YS 320;YS 485;Male;Men;Unknown probably none
-FArtinbras Took I;TA 2745;TA 2848;Male;Hobbit;Unnamed wife
-FArthwini;TA 1500;TA 1944;Male;Men;Unknown but possible since he had descendants
-FArlong;TA 3000;TA 3019;Male;Men;unknown
-FAlcwine;TA 2830;TA 2903;Male;Men;Unnamed wife
-FAlcred;TA 2858;TA 2885;Male;Men;None
-FAlca;TA 2804;TA 2864;Male;Men;Unnamed wife
+Fortinbras Took I;TA 2745;TA 2848;Male;Hobbit;Unnamed wife
+Forthwini;TA 1500;TA 1944;Male;Men;Unknown but possible since he had descendants
+Forlong;TA 3000;TA 3019;Male;Men;unknown
+Folcwine;TA 2830;TA 2903;Male;Men;Unnamed wife
+Folcred;TA 2858;TA 2885;Male;Men;None
+Folca;TA 2804;TA 2864;Male;Men;Unnamed wife
 Floi;TA 2989;TA 2994;Male;Dwarf;None
 Minto Burrows;TA 2996;None;Male;Hobbit;None
 Milo Burrows;SR 1347;None;Male;Hobbit;Peony Baggins
@@ -623,7 +623,7 @@ Pearl Took;TA 2975;FA 63;Female;Hobbit;None
 Paladin Took II;TA 2933;FA 13;Male;Hobbit;Eglantine Banks
 Isembard Took;TA 2847;TA 2946;Male;Hobbit;None
 Hildigrim Took;SR 1240;SR 1341;Male;Hobbit;Rosa Baggins
-HildiFAns Took;TA 2844;None;Male;Hobbit;None
+Hildifons Took;TA 2844;None;Male;Hobbit;None
 Hildibrand Took;TA 2849;TA 2934;Male;Hobbit;None
 Gerontius Took;TA 2790;TA 2920;Male;Hobbit;Adamanta Chubb
 Ferumbras III Took;TA 2916;TA 3015;Male;Hobbit;None
@@ -633,7 +633,7 @@ Adalgrim Took;TA 2880;TA 2982;Male;Hobbit;Unnamed wife
 Bandobras Took;TA 2701;TA 2800;Male;Hobbit;Unnamed wife
 Isumbras Took III;TA 2666;TA 2759;Male;Hobbit;Unnamed wife
 Isengrim Took II;TA 2620;TA 2722;Male;Hobbit;Unnamed wife
-FArtinbras Took II;TA 2878;TA 2980;Male;Hobbit;Lalia Clayhanger
+Fortinbras Took II;TA 2878;TA 2980;Male;Hobbit;Lalia Clayhanger
 Isumbras Took I;TA 2295;TA 2398;Male;Hobbit;None
 Faramir Took I;SR 1430;SR 1484;Male;Hobbit;Goldilocks Gardner
 Tom, Bert and William;TA 1;None;Male;Stone-trolls;None
@@ -666,7 +666,7 @@ Tarondor;TA 1577;TA 1798;Male;Men;Unnamed wife
 Tarciryan;TA 654;TA 913;Male;Men;Unnamed wife
 Mungo Baggins;TA 2807;TA 2900;Male;Hobbit;Laura Grubb
 Frodo Baggins;TA 2968;Unknown;Male;Hobbit;None
-FAsco Baggins;TA 2864;TA 2960;male;Hobbit;Ruby Bolger
+Fosco Baggins;TA 2864;TA 2960;male;Hobbit;Ruby Bolger
 Dudo Baggins;TA 2911;TA 3009;Male;Hobbit;Unnamed wife
 Drogo Baggins;TA 2908;TA 2980;Male;Hobbit;Primula Brandybuck
 Bungo Baggins;TA 2846;TA 2926;Male;Hobbit;None
