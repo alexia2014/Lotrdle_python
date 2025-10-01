@@ -143,14 +143,24 @@ def get_answer(db, name):
     table_names = inspector.get_table_names()
     result = {}
     columns = inspector.get_columns(name)
-    column_names = [col["name"] for col in columns]
-    result['lieux'] = column_names
+    result['lieux'] = [col["name"] for col in columns]
     columns = [col["name"] for col in inspector.get_columns(name)]
-    if "name" in columns:
-        query = text(f"SELECT DISTINCT name FROM " + name)
-        rows = db.execute(query).fetchall()
-        result["name"] = [row[0] for row in rows]
-    nb = len(result["name"])
+    if name == "scripting":
+        if "verse" in columns:
+            query = text(f"SELECT DISTINCT verse FROM " + name)
+            rows = db.execute(query).fetchall()
+            result["verse"] = [row[0] for row in rows]
+        nb = len(result["verse"])
+        if "name" in columns:
+            query = text(f"SELECT DISTINCT name FROM " + name)
+            rows = db.execute(query).fetchall()
+            result["name"] = [row[0] for row in rows]
+    else:
+        if "name" in columns:
+            query = text(f"SELECT DISTINCT name FROM " + name)
+            rows = db.execute(query).fetchall()
+            result["name"] = [row[0] for row in rows]
+        nb = len(result["name"])
     answer_index = lortdle.get_hazard_pers(nb)
     if name == "scripting":
         name = Script

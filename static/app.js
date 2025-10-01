@@ -29,6 +29,7 @@ async function initTable(script) {
         }
       });
     }
+    console.log(data);
     autocomplete(document.getElementById("guessInput"), get_name(data.name));
     updateHistoryTable(script);
     DisplayOldGuess(script);
